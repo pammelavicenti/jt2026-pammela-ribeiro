@@ -1,0 +1,11 @@
+dataset,rows,key,key_nunique
+details_raw,4441,airbnb_listing_id,4441
+mesh_raw,4441,airbnb_listing_id,4441
+hosts_raw,4440,owner_id,3057
+hosts_dedup,3057,owner_id,3057
+price_raw,118839,airbnb_listing_id+date,59040
+price_dedup_full,59040,airbnb_listing_id+stay_date,59040
+price_analytic,58600,airbnb_listing_id+stay_date,58600
+vivareal_raw,8329,listing_id,8293
+vivareal_dedup,8293,listing_id,8293
+listing_master,4441,airbnb_listing_id,4441

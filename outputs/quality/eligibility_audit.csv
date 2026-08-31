@@ -1,0 +1,11 @@
+metrica,valor
+linhas brutas Price,118839
+linhas elegíveis (aq_date <= stay_date),118839
+linhas excluídas por elegibilidade,0
+"pares (listing, stay_date) no full",59040
+anúncios no full,1005
+anúncios no analítico (com Details),999
+pares cuja captura eleita é no próprio dia da estadia (elegíveis por convenção),69
+janela (n dias únicos),105
+órfãos (sem Details),6
+linhas brutas dos órfãos,509

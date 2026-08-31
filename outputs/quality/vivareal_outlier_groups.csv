@@ -1,0 +1,58 @@
+suburb_norm,listing_type,n,mode,lim_inf,lim_sup
+<NA>,apartamento,88,own_iqr,-3618.450693417599,27850.682066536
+<NA>,casa,7,report_only,,
+<NA>,outros,1,report_only,,
+<NA>,terreno,2,report_only,,
+alto sao bento,apartamento,35,own_iqr,5054.300724637685,13914.329710144924
+alto sao bento,casa,16,fallback_tipologia,2251.3153594771256,13729.289215686273
+alto sao bento,comercial,2,report_only,,
+alto sao bento,terreno,11,fallback_tipologia,22.32142857142867,4153.273809523809
+andorinha,apartamento,756,own_iqr,5316.679935790915,22361.337844977064
+andorinha,casa,9,report_only,,
+andorinha,comercial,13,fallback_tipologia,-3416.1186686474266,34310.018569609514
+andorinha,terreno,1,report_only,,
+canto da praia,apartamento,103,own_iqr,7136.036820684385,24525.100596664997
+canto da praia,casa,27,fallback_tipologia,2251.3153594771256,13729.289215686273
+canto da praia,terreno,1,report_only,,
+casa branca,apartamento,27,fallback_tipologia,1586.0215053763404,28467.741935483875
+casa branca,casa,38,own_iqr,-7941.854867971344,32631.58607027482
+casa branca,outros,4,report_only,,
+casa branca,terreno,23,fallback_tipologia,22.32142857142867,4153.273809523809
+castelo branco,apartamento,492,own_iqr,4255.378659978446,22842.10345381167
+castelo branco,casa,8,report_only,,
+castelo branco,comercial,5,report_only,,
+castelo branco,terreno,1,report_only,,
+centro,apartamento,982,own_iqr,942.6130733811297,35456.98854694876
+centro,casa,17,fallback_tipologia,2251.3153594771256,13729.289215686273
+centro,comercial,8,report_only,,
+estreito,apartamento,5,report_only,,
+ilhota,apartamento,28,fallback_tipologia,1586.0215053763404,28467.741935483875
+ilhota,casa,22,fallback_tipologia,2251.3153594771256,13729.289215686273
+ilhota,terreno,5,report_only,,
+itapema,apartamento,2,report_only,,
+jardim praia mar,apartamento,103,own_iqr,5738.0952380952385,16703.1746031746
+jardim praia mar,terreno,1,report_only,,
+meia praia,apartamento,3401,own_iqr,1387.4974950373417,32049.920282320316
+meia praia,casa,19,fallback_tipologia,2251.3153594771256,13729.289215686273
+meia praia,comercial,28,fallback_tipologia,-3416.1186686474266,34310.018569609514
+meia praia,outros,1,report_only,,
+meia praia,terreno,5,report_only,,
+meia praia - frente mar,apartamento,1,report_only,,
+morretes,apartamento,1300,own_iqr,4819.582201086958,18634.029664855072
+morretes,casa,367,own_iqr,4385.181591063945,9924.87560134619
+morretes,comercial,23,fallback_tipologia,-3416.1186686474266,34310.018569609514
+morretes,terreno,74,own_iqr,1594.956177914811,3360.258221993833
+ocean tower,apartamento,1,report_only,,
+sertao do trombudo,apartamento,12,fallback_tipologia,1586.0215053763404,28467.741935483875
+sertao do trombudo,casa,8,report_only,,
+sertao do trombudo,outros,4,report_only,,
+sertao do trombudo,terreno,16,fallback_tipologia,22.32142857142867,4153.273809523809
+sertaozinho,apartamento,1,report_only,,
+taboleiro,apartamento,1,report_only,,
+tabuleiro,apartamento,6,report_only,,
+tabuleiro dos oliveiras,apartamento,121,own_iqr,7327.4032258064535,16174.758064516129
+tabuleiro dos oliveiras,casa,5,report_only,,
+tabuleiro dos oliveiras,terreno,1,report_only,,
+varzea,apartamento,32,own_iqr,6745.256696428572,12376.953125
+varzea,casa,4,report_only,,
+varzea,terreno,8,report_only,,
