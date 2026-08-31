@@ -1,0 +1,77 @@
+level,group,scenario,n_anuncios,diaria_ajustada,in_ranking,bootstrap_reps_requested,bootstrap_reps_valid,ci_insuficiente,rank,rank_delta
+perfil,3. apartamento (3q+),todos,464,792.5270809094736,True,1000,1000,False,1.0,0.0
+perfil,4. casa,todos,70,624.6816332860689,True,1000,1000,False,2.0,0.0
+perfil,2. apartamento (2q),todos,333,542.1173007302375,True,1000,1000,False,3.0,0.0
+perfil,1. apartamento compacto (0-1q),todos,114,507.20574042892594,True,1000,1000,False,4.0,0.0
+perfil,hotel/outros,todos,18,203.20119402424365,False,1000,1000,False,,
+bairro,varzea,todos,5,1021.6986007104455,False,1000,989,False,,
+bairro,canto da praia,todos,9,917.4894584752305,False,1000,1000,False,,
+bairro,sertaozinho,todos,6,815.6639170506912,False,1000,1000,False,,
+bairro,meia praia,todos,632,673.6476570226426,True,1000,1000,False,1.0,0.0
+bairro,tabuleiro dos oliveiras,todos,20,663.0860737711214,True,1000,1000,False,2.0,0.0
+bairro,centro,todos,205,616.0345716042626,True,1000,1000,False,3.0,0.0
+bairro,ilhota,todos,10,541.4607046582181,False,1000,1000,False,,
+bairro,morretes,todos,83,525.2376606256646,True,1000,1000,False,4.0,0.0
+bairro,sertao do trombudo,todos,3,464.71979879439556,False,1000,1000,False,,
+bairro,alto sao bento,todos,5,393.4823156682028,False,1000,920,True,,
+bairro,casa branca,todos,15,373.0622503571429,False,1000,1000,False,,
+bairro,leopoldo zarling,todos,1,210.3816052764977,False,1000,1000,False,,
+bairro,jardim praiamar,todos,1,193.03846153846155,False,1000,1000,False,,
+bairro,areal,todos,1,,False,1000,0,True,,
+perfil,3. apartamento (3q+),cobertura>=25,405,794.7421712690535,True,1000,1000,False,1.0,0.0
+perfil,4. casa,cobertura>=25,62,627.7556374069479,True,1000,1000,False,2.0,0.0
+perfil,2. apartamento (2q),cobertura>=25,299,545.189172192928,True,1000,1000,False,3.0,0.0
+perfil,1. apartamento compacto (0-1q),cobertura>=25,108,509.3424121375399,True,1000,1000,False,4.0,0.0
+perfil,hotel/outros,cobertura>=25,16,204.19575924163496,False,1000,1000,False,,
+bairro,varzea,cobertura>=25,3,1103.4601334485405,False,1000,1000,False,,
+bairro,canto da praia,cobertura>=25,8,919.147292562212,False,1000,1000,False,,
+bairro,sertaozinho,cobertura>=25,6,815.6639170506912,False,1000,1000,False,,
+bairro,meia praia,cobertura>=25,554,677.5837972017902,True,1000,1000,False,1.0,0.0
+bairro,tabuleiro dos oliveiras,cobertura>=25,18,667.9702904953917,False,1000,1000,False,,
+bairro,centro,cobertura>=25,192,615.9815348825771,True,1000,1000,False,2.0,-1.0
+bairro,ilhota,cobertura>=25,10,541.4607046582181,False,1000,1000,False,,
+bairro,morretes,cobertura>=25,71,529.1151174240074,True,1000,1000,False,3.0,-1.0
+bairro,sertao do trombudo,cobertura>=25,3,464.71979879439556,False,1000,1000,False,,
+bairro,alto sao bento,cobertura>=25,5,393.4823156682028,False,1000,928,True,,
+bairro,casa branca,cobertura>=25,14,377.7272800357143,False,1000,1000,False,,
+bairro,leopoldo zarling,cobertura>=25,1,210.3816052764977,False,1000,1000,False,,
+bairro,jardim praiamar,cobertura>=25,1,193.03846153846155,False,1000,1000,False,,
+bairro,areal,cobertura>=25,1,,False,1000,0,True,,
+perfil,3. apartamento (3q+),cobertura>=50,283,810.8262598192132,True,1000,1000,False,1.0,0.0
+perfil,4. casa,cobertura>=50,39,714.4762605093495,True,1000,1000,False,2.0,0.0
+perfil,2. apartamento (2q),cobertura>=50,204,565.6631395596862,True,1000,1000,False,3.0,0.0
+perfil,1. apartamento compacto (0-1q),cobertura>=50,96,516.1369004652605,True,1000,1000,False,4.0,0.0
+perfil,hotel/outros,cobertura>=50,10,196.4940398968143,False,1000,1000,False,,
+bairro,varzea,cobertura>=50,1,1688.913408773951,False,1000,1000,False,,
+bairro,canto da praia,cobertura>=50,7,928.0156969400922,False,1000,1000,False,,
+bairro,sertaozinho,cobertura>=50,6,815.6639170506912,False,1000,1000,False,,
+bairro,meia praia,cobertura>=50,375,693.237986467343,True,1000,1000,False,1.0,0.0
+bairro,tabuleiro dos oliveiras,cobertura>=50,15,690.5418101382488,False,1000,1000,False,,
+bairro,centro,cobertura>=50,148,620.3302817675469,True,1000,1000,False,2.0,-1.0
+bairro,alto sao bento,cobertura>=50,3,583.2566244239631,False,1000,715,True,,
+bairro,ilhota,cobertura>=50,8,558.1047728869048,False,1000,1000,False,,
+bairro,morretes,cobertura>=50,52,538.7631276608472,True,1000,1000,False,3.0,-1.0
+bairro,sertao do trombudo,cobertura>=50,2,387.9836594856756,False,1000,1000,False,,
+bairro,casa branca,cobertura>=50,12,365.6800689873272,False,1000,1000,False,,
+bairro,leopoldo zarling,cobertura>=50,1,210.3816052764977,False,1000,1000,False,,
+bairro,jardim praiamar,cobertura>=50,1,193.03846153846155,False,1000,1000,False,,
+bairro,areal,cobertura>=50,0,,False,1000,0,True,,
+perfil,4. casa,cobertura>=75,14,926.6313829315847,False,1000,1000,False,,
+perfil,3. apartamento (3q+),cobertura>=75,103,844.1255262395871,True,1000,1000,False,1.0,0.0
+perfil,2. apartamento (2q),cobertura>=75,60,671.5247838295375,True,1000,1000,False,2.0,-1.0
+perfil,1. apartamento compacto (0-1q),cobertura>=75,44,527.0612482275789,True,1000,1000,False,3.0,-1.0
+perfil,hotel/outros,cobertura>=75,3,228.32413344019233,False,1000,1000,False,,
+bairro,varzea,cobertura>=75,1,1688.913408773951,False,1000,1000,False,,
+bairro,sertaozinho,cobertura>=75,4,1367.794487327189,False,1000,1000,False,,
+bairro,canto da praia,cobertura>=75,4,972.3502948197005,False,1000,1000,False,,
+bairro,meia praia,cobertura>=75,120,760.1879252437079,True,1000,1000,False,1.0,0.0
+bairro,tabuleiro dos oliveiras,cobertura>=75,7,676.0516058394428,False,1000,1000,False,,
+bairro,centro,cobertura>=75,68,658.1294053394187,True,1000,1000,False,2.0,-1.0
+bairro,morretes,cobertura>=75,14,541.0028441820276,False,1000,1000,False,,
+bairro,sertao do trombudo,cobertura>=75,1,390.4521643231321,False,1000,1000,False,,
+bairro,ilhota,cobertura>=75,3,347.83518299795185,False,1000,1000,False,,
+bairro,casa branca,cobertura>=75,1,280.7416474654378,False,1000,1000,False,,
+bairro,alto sao bento,cobertura>=75,0,,False,1000,0,True,,
+bairro,areal,cobertura>=75,0,,False,1000,0,True,,
+bairro,jardim praiamar,cobertura>=75,0,,False,1000,0,True,,
+bairro,leopoldo zarling,cobertura>=75,0,,False,1000,0,True,,

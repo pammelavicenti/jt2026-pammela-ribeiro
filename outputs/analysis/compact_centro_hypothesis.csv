@@ -1,0 +1,3 @@
+comparacao,grupoA,nA,coberturaA,diariaA,grupoB,nB,coberturaB,diariaB,diferenca_abs,diferenca_pct_sobre_B,ci_diff_025,ci_diff_975,bootstrap_reps_requested,bootstrap_reps_valid,ci_insuficiente,veredito_bootstrap
+A: compactos Centro vs compactos fora do Centro,compactos Centro,78,0.7333333333333333,505.6480104572846,compactos fora do Centro,36,0.6190476190476191,502.46170082949305,3.186309627791559,0.6341398006119497,-69.17183538231087,96.63370122907065,1000,1000,False,inconclusiva (CI cruza zero)
+B: compactos Centro vs apt 2q+ no Centro,compactos Centro,78,0.7333333333333333,505.6480104572846,apt 2q+ no Centro,115,0.6285714285714286,746.5260952680787,-240.87808481079412,-32.26653245447427,-306.25049927563913,-165.97538922230592,1000,1000,False,rejeitada
