@@ -1,0 +1,9 @@
+cenario,quantil_preco_principal,preco_principal,quantil_preco_alternativa,preco_alternativa,rendimento_principal,rendimento_alternativa,alternative_wins,tipo
+conjunto_preco@P25,P25,680000.0,P25,873500.0,0.1616634878037356,0.1783153387727811,True,conjunto (mesmo quantil nos dois)
+conjunto_preco@mediana,mediana,789550.0,mediana,1150000.0,0.1392326916680897,0.1354421290591515,False,conjunto (mesmo quantil nos dois)
+conjunto_preco@P75,P75,874647.5,P75,1533030.0,0.1256862584144358,0.101601696260363,False,conjunto (mesmo quantil nos dois)
+cruzado_centroP25_vs_morretesMediana,mediana,789550.0,P25,873500.0,0.1392326916680897,0.1783153387727811,True,cruzado (Centro@P25 vs Morretes@mediana)
+outlier_todos,mediana,789550.0,mediana,1150000.0,0.1391533819070129,0.1354421290591515,False,outliers (preço com todos os válidos)
+ocupacao_50%,mediana,789550.0,mediana,1150000.0,0.1160272430567414,0.1128684408826263,False,ocupação hipótese
+ocupacao_60%,mediana,789550.0,mediana,1150000.0,0.1392326916680897,0.1354421290591515,False,ocupação hipótese
+ocupacao_75%,mediana,789550.0,mediana,1150000.0,0.1740408645851121,0.1693026613239394,False,ocupação hipótese

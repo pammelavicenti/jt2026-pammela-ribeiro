@@ -1,0 +1,16 @@
+segmento,variancia,rendimento_60,ci_025,ci_975,n_viva
+morretes | 2. apartamento (2q),principal_False,0.1392326916680897,0.1287354171972023,0.1509979834563847,1019
+morretes | 2. apartamento (2q),todos_validos_incl_outliers,0.1391533819070129,0.1291928743627972,0.150018406776774,1037
+morretes | 2. apartamento (2q),preco_P25,0.1616634878037356,,,1019
+morretes | 2. apartamento (2q),preco_mediana,0.1392326916680897,,,1019
+morretes | 2. apartamento (2q),preco_P75,0.1256862584144358,,,1019
+meia praia | 1. apartamento compacto (0-1q),principal_False,0.1338384462834496,0.1126467467430089,0.1435296278435518,55
+meia praia | 1. apartamento compacto (0-1q),todos_validos_incl_outliers,0.1334571401686819,0.1133353577246069,0.1439303424480354,58
+meia praia | 1. apartamento compacto (0-1q),preco_P25,0.1555227629455756,,,55
+meia praia | 1. apartamento compacto (0-1q),preco_mediana,0.1338384462834496,,,55
+meia praia | 1. apartamento compacto (0-1q),preco_P75,0.1168161911634407,,,55
+centro | 2. apartamento (2q),principal_False,0.1354421290591515,0.1097722022518484,0.1577981055522694,87
+centro | 2. apartamento (2q),todos_validos_incl_outliers,0.1354421290591515,0.110631587749927,0.1530976539443492,89
+centro | 2. apartamento (2q),preco_P25,0.1783153387727811,,,87
+centro | 2. apartamento (2q),preco_mediana,0.1354421290591515,,,87
+centro | 2. apartamento (2q),preco_P75,0.101601696260363,,,87
