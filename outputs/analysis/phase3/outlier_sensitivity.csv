@@ -1,0 +1,45 @@
+population,variavel,n_listings,n_owners,estimate,ci_low,ci_high,valid_bootstrap_reps,point_outside_bootstrap_ci,same_sign_coverage,same_sign_without_outliers,exploratory_sample_association,usable_as_supporting_evidence,usable_for_recommendation_alone
+principal_all,suburb_design_centro,493,350,-2.0643132251681573,-11.260603706587546,10.57835566259575,1000.0,False,False,False,False,False,False
+principal_all,suburb_design_morretes,493,350,-8.569038365470993,-18.12344421627682,1.8828013355324469,1000.0,False,True,True,False,False,False
+principal_all,suburb_design_outros_bairros_raros,493,350,-18.70184579430787,-28.521178331700604,-8.244570124963957,1000.0,False,True,True,False,False,False
+principal_all,profile_1. apartamento compacto (0-1q),493,350,17.027837730683725,3.363208368167636,45.06460293115906,1000.0,False,True,False,False,False,False
+principal_all,profile_3. apartamento (3q+),493,350,-6.114903322182985,-19.834390844733086,5.978580028305269,1000.0,False,True,False,False,False,False
+principal_all,profile_4. casa,493,350,9.84821990634912,-10.59699956457928,32.92590815770178,1000.0,False,False,True,False,False,False
+principal_all,profile_5. hotel/outros,493,350,-41.90121517438578,-57.093310003759356,-24.521387928271853,1000.0,False,True,True,False,False,False
+principal_all,number_of_bedrooms,493,350,42.55399106681719,30.499413712501333,59.70627294150108,1000.0,False,True,True,True,True,False
+principal_all,cleaning_fee,493,350,5.8837413564510666,-0.4558980381391131,12.407517228515275,1000.0,False,True,True,False,False,False
+principal_all,picture_count,493,350,0.06336464844247658,-4.389741143239922,3.9740237066113737,1000.0,False,True,True,False,False,False
+principal_all,can_instant_book,493,350,2.0178914917999613,-2.948729072478984,8.589111331542455,1000.0,False,False,True,False,False,False
+principal_all,is_new_listing,493,350,6.792000395750319,0.0,10.377767213244349,1000.0,False,True,True,False,False,False
+principal_all,is_professional,493,350,6.020461054523052,-0.7017929353949293,16.44122649931368,1000.0,False,True,True,False,False,False
+principal_all,amenity_count,493,350,13.903077877422177,7.649983422646356,19.519104438112024,1000.0,False,False,True,False,False,False
+principal_all,am_ferro de passar,493,350,-5.408987200427651,-9.95626593291007,-0.8433331424082202,1000.0,False,False,True,False,False,False
+principal_all,am_tv,493,350,-1.9231875302893053,-5.36799886769942,1.65393808003087,1000.0,False,False,True,False,False,False
+principal_all,am_ar-condicionado,493,350,4.758416769557194,0.8073201503188132,8.494547172733412,1000.0,False,False,True,False,False,False
+principal_all,am_estacionamento incluido,493,350,2.3855262218367645,0.017288367818735217,5.620222575822265,1000.0,False,False,True,False,False,False
+principal_all,am_churrasqueira,493,350,0.16570910863384913,-3.7409292261574967,4.641883730382035,1000.0,False,False,True,False,False,False
+principal_all,am_maquina de lavar,493,350,3.8437471916403565,0.1632270369842148,8.838973657168081,1000.0,False,False,True,False,False,False
+principal_all,am_microondas,493,350,-4.481466331517659,-8.859303410115904,0.20177091967772398,1000.0,False,False,True,False,False,False
+principal_all,am_loucas e talheres,493,350,-4.3546504595368685,-9.223324862981952,1.3682234280186556,1000.0,False,False,True,False,False,False
+sem_outliers_sens,suburb_design_centro,462,322,3.1788225354274946,,,,,,,,,
+sem_outliers_sens,suburb_design_morretes,462,322,-6.721239859414818,,,,,,,,,
+sem_outliers_sens,suburb_design_outros_bairros_raros,462,322,-14.944710875135659,,,,,,,,,
+sem_outliers_sens,profile_1. apartamento compacto (0-1q),462,322,-1.1915368894714007,,,,,,,,,
+sem_outliers_sens,profile_3. apartamento (3q+),462,322,14.11342372111144,,,,,,,,,
+sem_outliers_sens,profile_4. casa,462,322,22.50359884314166,,,,,,,,,
+sem_outliers_sens,profile_5. hotel/outros,462,322,-24.760372437162648,,,,,,,,,
+sem_outliers_sens,number_of_bedrooms,462,322,16.957819825371434,,,,,,,,,
+sem_outliers_sens,cleaning_fee,462,322,8.972413904195587,,,,,,,,,
+sem_outliers_sens,picture_count,462,322,2.100796199599686,,,,,,,,,
+sem_outliers_sens,can_instant_book,462,322,0.3211440241168706,,,,,,,,,
+sem_outliers_sens,is_new_listing,462,322,7.860928329837158,,,,,,,,,
+sem_outliers_sens,is_professional,462,322,4.672719033959072,,,,,,,,,
+sem_outliers_sens,amenity_count,462,322,11.457758868003909,,,,,,,,,
+sem_outliers_sens,am_ferro de passar,462,322,-3.3210630414280295,,,,,,,,,
+sem_outliers_sens,am_tv,462,322,-0.2925634805986954,,,,,,,,,
+sem_outliers_sens,am_ar-condicionado,462,322,5.0031769169941676,,,,,,,,,
+sem_outliers_sens,am_estacionamento incluido,462,322,1.3416829090046045,,,,,,,,,
+sem_outliers_sens,am_churrasqueira,462,322,2.8967484755740625,,,,,,,,,
+sem_outliers_sens,am_maquina de lavar,462,322,1.766723580570595,,,,,,,,,
+sem_outliers_sens,am_microondas,462,322,-2.203076931615533,,,,,,,,,
+sem_outliers_sens,am_loucas e talheres,462,322,-6.025605381808896,,,,,,,,,

@@ -1,0 +1,4 @@
+segmento,n_precificado_total,n_principal,cobertura_med,nota,number_of_guests_top_q1,number_of_guests_demais,number_of_bathrooms_top_q1,number_of_bathrooms_demais,number_of_beds_top_q1,number_of_beds_demais,amenity_count_top_q1,amenity_count_demais,is_superhost_top_q1,is_superhost_demais,can_instant_book_top_q1,can_instant_book_demais,picture_count_top_q1,picture_count_demais,number_of_reviews_top_q1,number_of_reviews_demais,mediana_diaria
+morretes | 2. apartamento (2q),27,24,0.7571428571428571,,5.0,5.0,2.0,2.0,2.0,2.0,29.5,28.5,0.0,0.0,1.0,0.0,7.0,19.0,9.0,11.0,521.6631879467334
+meia praia | 1. apartamento compacto (0-1q),18,17,0.7142857142857143,"N<20: somente descrição, sem inferência",,,,,,,,,,,,,,,,,
+centro | 2. apartamento (2q),40,37,0.7904761904761904,,5.0,6.0,2.0,2.0,2.5,3.0,38.0,36.0,0.0,0.0,0.0,1.0,3.0,0.0,3.5,12.0,704.9423835125449

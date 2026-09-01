@@ -1,0 +1,1127 @@
+nome_original,nome_normalizado,frequencia,prevalencia,incluida_modelo,motivo
+Chuveiro externo,chuveiro externo,1155,0.26007655933348345,False,fora do intervalo 10-90% ou não top10 por frequência
+Máquina de lavar Gratuito,maquina de lavar gratuito,31,0.0069804098176086465,False,fora do intervalo 10-90% ou não top10 por frequência
+Roupa de cama,roupa de cama,1314,0.29587930646250843,False,fora do intervalo 10-90% ou não top10 por frequência
+Varal para secar roupas,varal para secar roupas,1516,0.3413645575320874,False,fora do intervalo 10-90% ou não top10 por frequência
+Local para guardar as roupas: guarda-roupa,local para guardar as roupas: guarda-roupa,835,0.18802071605494258,False,fora do intervalo 10-90% ou não top10 por frequência
+HDTV,hdtv,48,0.010808376491781131,False,fora do intervalo 10-90% ou não top10 por frequência
+Ar-condicionado split,ar-condicionado split,772,0.17383472190947985,False,fora do intervalo 10-90% ou não top10 por frequência
+Ventilador de teto,ventilador de teto,415,0.09344742175185769,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi,wi-fi,4153,0.9351497410493133,False,fora do intervalo 10-90% ou não top10 por frequência
+Refrigerador,refrigerador,1956,0.44044134204008106,False,fora do intervalo 10-90% ou não top10 por frequência
+Microondas,microondas,2121,0.4775951362305787,True,prevalencia 10-90% e/ou frequência top10
+Louças e talheres,loucas e talheres,2396,0.5395181265480747,True,prevalencia 10-90% e/ou frequência top10
+Fogão a gás Other,fogao a gas other,158,0.03557757261877956,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Normal,forno normal,146,0.03287547849583427,False,fora do intervalo 10-90% ou não top10 por frequência
+Liquidificador,liquidificador,1427,0.3213240261202432,False,fora do intervalo 10-90% ou não top10 por frequência
+Churrasqueira,churrasqueira,2892,0.6512046836298131,True,prevalencia 10-90% e/ou frequência top10
+Estacionamento incluído,estacionamento incluido,3552,0.7998198603918036,True,prevalencia 10-90% e/ou frequência top10
+O anfitrião recebe você,o anfitriao recebe voce,1151,0.2591758612925017,False,fora do intervalo 10-90% ou não top10 por frequência
+Secador de cabelo,secador de cabelo,1167,0.26277865345642876,False,fora do intervalo 10-90% ou não top10 por frequência
+Água quente,agua quente,1656,0.372888988966449,False,fora do intervalo 10-90% ou não top10 por frequência
+Máquina de Lavar,maquina de lavar,3228,0.726863319072281,True,prevalencia 10-90% e/ou frequência top10
+Básico,basico,968,0.21796892591758613,False,fora do intervalo 10-90% ou não top10 por frequência
+Cabides,cabides,1896,0.42693087142535463,False,fora do intervalo 10-90% ou não top10 por frequência
+Ferro de passar,ferro de passar,2034,0.4580049538392254,True,prevalencia 10-90% e/ou frequência top10
+TV,tv,3439,0.7743751407340689,True,prevalencia 10-90% e/ou frequência top10
+Ar-condicionado,ar-condicionado,3235,0.7284395406439991,True,prevalencia 10-90% e/ou frequência top10
+Cozinha,cozinha,4258,0.9587930646250844,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão,fogao,1242,0.27966674172483674,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno,forno,1352,0.30443593785183515,False,fora do intervalo 10-90% ou não top10 por frequência
+Cafeteira: cafeteira com coador,cafeteira: cafeteira com coador,118,0.026570592208961945,False,fora do intervalo 10-90% ou não top10 por frequência
+Taças de vinho,tacas de vinho,947,0.2132402612024319,False,fora do intervalo 10-90% ou não top10 por frequência
+Torradeira,torradeira,690,0.15537041206935376,False,fora do intervalo 10-90% ou não top10 por frequência
+Assadeira,assadeira,867,0.19522630038279667,False,fora do intervalo 10-90% ou não top10 por frequência
+Mesa de jantar,mesa de jantar,1562,0.3517225850033776,False,fora do intervalo 10-90% ou não top10 por frequência
+Acesso à praia compartilhado,acesso a praia compartilhado,425,0.0956991668543121,False,fora do intervalo 10-90% ou não top10 por frequência
+Pátio ou varanda (Privativa),patio ou varanda (privativa),587,0.1321774375140734,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito na rua,estacionamento gratuito na rua,890,0.20040531411844179,False,fora do intervalo 10-90% ou não top10 por frequência
+Elevador,elevador,1704,0.38369736545823013,False,fora do intervalo 10-90% ou não top10 por frequência
+Itens básicos de cozinha,itens basicos de cozinha,1971,0.44381895969376267,False,fora do intervalo 10-90% ou não top10 por frequência
+Entrada privada,entrada privada,598,0.13465435712677326,False,fora do intervalo 10-90% ou não top10 por frequência
+Permitido animais,permitido animais,1812,0.4080162125647377,False,fora do intervalo 10-90% ou não top10 por frequência
+Cobertores e travesseiros extras,cobertores e travesseiros extras,944,0.21256473767169556,False,fora do intervalo 10-90% ou não top10 por frequência
+Local para guardar as roupas,local para guardar as roupas,646,0.14546273361855439,False,fora do intervalo 10-90% ou não top10 por frequência
+Conexão à Ethernet,conexao a ethernet,503,0.11326277865345642,False,fora do intervalo 10-90% ou não top10 por frequência
+HDTV com TV a cabo,hdtv com tv a cabo,16,0.0036027921639270434,False,fora do intervalo 10-90% ou não top10 por frequência
+Extintor de incêndio,extintor de incendio,1773,0.3992344066651655,False,fora do intervalo 10-90% ou não top10 por frequência
+Espaço de trabalho exclusivo,espaco de trabalho exclusivo,794,0.17878856113487954,False,fora do intervalo 10-90% ou não top10 por frequência
+Freezer,freezer,849,0.19117315919837874,False,fora do intervalo 10-90% ou não top10 por frequência
+Chaleira de água quente,chaleira de agua quente,1175,0.26458004953839226,False,fora do intervalo 10-90% ou não top10 por frequência
+Lixeira compactadora,lixeira compactadora,118,0.026570592208961945,False,fora do intervalo 10-90% ou não top10 por frequência
+Utensílios para churrasco,utensilios para churrasco,1433,0.32267507318171584,False,fora do intervalo 10-90% ou não top10 por frequência
+Acesso à praia (à beira-mar),acesso a praia (a beira-mar),1603,0.3609547399234407,False,fora do intervalo 10-90% ou não top10 por frequência
+Lavanderia nas proximidades,lavanderia nas proximidades,571,0.12857464535014637,False,fora do intervalo 10-90% ou não top10 por frequência
+Móveis externos,moveis externos,314,0.07070479621706822,False,fora do intervalo 10-90% ou não top10 por frequência
+Área de jantar externa,area de jantar externa,703,0.15829768070254446,False,fora do intervalo 10-90% ou não top10 por frequência
+Permitido fumar,permitido fumar,818,0.1841927493807701,False,fora do intervalo 10-90% ou não top10 por frequência
+Self check-in,self check-in,506,0.11393830218419275,False,fora do intervalo 10-90% ou não top10 por frequência
+Cofre de chaves,cofre de chaves,106,0.023868498086016664,False,fora do intervalo 10-90% ou não top10 por frequência
+Produtos de limpeza,produtos de limpeza,476,0.10718306687682955,False,fora do intervalo 10-90% ou não top10 por frequência
+Blackout nas cortinas,blackout nas cortinas,1504,0.3386624634091421,False,fora do intervalo 10-90% ou não top10 por frequência
+Detector de fumaça,detector de fumaca,674,0.1517676199054267,False,fora do intervalo 10-90% ou não top10 por frequência
+Alarme de monóxido de carbono,alarme de monoxido de carbono,257,0.05786984913307813,False,fora do intervalo 10-90% ou não top10 por frequência
+Churrasqueira: a carvão,churrasqueira: a carvao,133,0.02994820986264355,False,fora do intervalo 10-90% ou não top10 por frequência
+Estadias de longa duração são permitidas,estadias de longa duracao sao permitidas,842,0.18959693762666066,False,fora do intervalo 10-90% ou não top10 por frequência
+Fechadura inteligente,fechadura inteligente,122,0.027471290249943707,False,fora do intervalo 10-90% ou não top10 por frequência
+Limpeza disponível durante a estadia,limpeza disponivel durante a estadia,114,0.025669894167980184,False,fora do intervalo 10-90% ou não top10 por frequência
+Aquecimento,aquecimento,287,0.06462508444044134,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para o horizonte da cidade,vista para o horizonte da cidade,168,0.037829317721233956,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para o pátio,vista para o patio,61,0.013735645124971853,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para o jardim,vista para o jardim,38,0.008556631389326727,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para as montanhas,vista para as montanhas,121,0.027246115739698266,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete para o corpo,sabonete para o corpo,278,0.06259851384823238,False,fora do intervalo 10-90% ou não top10 por frequência
+Máquina de lavar na acomodação por Gratuito,maquina de lavar na acomodacao por gratuito,597,0.1344291826165278,False,fora do intervalo 10-90% ou não top10 por frequência
+Cadeira alta com assento de elevação: sempre na acomodação,cadeira alta com assento de elevacao: sempre na acomodacao,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Pratos e talheres para crianças,pratos e talheres para criancas,120,0.027020941229452825,False,fora do intervalo 10-90% ou não top10 por frequência
+Rede/grade de proteção nas janelas,rede/grade de protecao nas janelas,251,0.05651880207160549,False,fora do intervalo 10-90% ou não top10 por frequência
+Protetores de tomada,protetores de tomada,21,0.0047286647151542445,False,fora do intervalo 10-90% ou não top10 por frequência
+Parque infantil ao ar livre,parque infantil ao ar livre,73,0.016437739247917135,False,fora do intervalo 10-90% ou não top10 por frequência
+Ar-condicionado de janela/parede,ar-condicionado de janela/parede,140,0.03152443143436163,False,fora do intervalo 10-90% ou não top10 por frequência
+Ventiladores portáteis,ventiladores portateis,478,0.10763341589732042,False,fora do intervalo 10-90% ou não top10 por frequência
+Câmeras de segurança na parte externa da propriedade,cameras de seguranca na parte externa da propriedade,1040,0.2341814906552578,False,fora do intervalo 10-90% ou não top10 por frequência
+Wifi portátil,wifi portatil,82,0.0184643098401261,False,fora do intervalo 10-90% ou não top10 por frequência
+Cafeteira,cafeteira,634,0.1427606394956091,False,fora do intervalo 10-90% ou não top10 por frequência
+Café,cafe,296,0.0666516550326503,False,fora do intervalo 10-90% ou não top10 por frequência
+Quintal,quintal,164,0.0369286196802522,False,fora do intervalo 10-90% ou não top10 por frequência
+Rede,rede,178,0.04008106282368836,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento pago no local,estacionamento pago no local,77,0.017338437288898896,False,fora do intervalo 10-90% ou não top10 por frequência
+É permitido deixar as malas,e permitido deixar as malas,398,0.0896194550776852,False,fora do intervalo 10-90% ou não top10 por frequência
+Livros e brinquedos infantis,livros e brinquedos infantis,66,0.014861517676199055,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento pago fora da propriedade,estacionamento pago fora da propriedade,176,0.03963071380319748,False,fora do intervalo 10-90% ou não top10 por frequência
+Local para guardar as roupas: guarda-roupa e cômoda,local para guardar as roupas: guarda-roupa e comoda,96,0.021616752983562262,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito na propriedade: 1 vaga,estacionamento gratuito na propriedade: 1 vaga,9,0.002026570592208962,False,fora do intervalo 10-90% ou não top10 por frequência
+Cadeira alta,cadeira alta,96,0.021616752983562262,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para o oceano,vista para o oceano,299,0.06732717856338663,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para a baía,vista para a baia,77,0.017338437288898896,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para a praia,vista para a praia,724,0.16302634541769873,False,fora do intervalo 10-90% ou não top10 por frequência
+HDTV com Netflix,hdtv com netflix,32,0.007205584327854087,False,fora do intervalo 10-90% ou não top10 por frequência
+Jogos em tamanho real,jogos em tamanho real,7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para as águas,vista para as aguas,521,0.11731591983787436,False,fora do intervalo 10-90% ou não top10 por frequência
+Quintal compartilhado — totalmente cercado,quintal compartilhado  totalmente cercado,54,0.012159423553253772,False,fora do intervalo 10-90% ou não top10 por frequência
+Churrasqueira privativa: a carvão,churrasqueira privativa: a carvao,152,0.03422652555730691,False,fora do intervalo 10-90% ou não top10 por frequência
+Funcionários do edifício,funcionarios do edificio,135,0.03039855888313443,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Netflix, TV a cabo","tv de alta definicao de 55 polegadas com netflix, tv a cabo",3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico de aço inoxidável,fogao eletrico de aco inoxidavel,7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal de aço inoxidável,forno normal de aco inoxidavel,62,0.013960819635217293,False,fora do intervalo 10-90% ou não top10 por frequência
+Cafeteira: cafeteira elétrica,cafeteira: cafeteira eletrica,296,0.0666516550326503,False,fora do intervalo 10-90% ou não top10 por frequência
+Pátio ou varanda,patio ou varanda,351,0.07903625309614952,False,fora do intervalo 10-90% ou não top10 por frequência
+Garagem residencial gratuita na propriedade:2 vagas,garagem residencial gratuita na propriedade:2 vagas,48,0.010808376491781131,False,fora do intervalo 10-90% ou não top10 por frequência
+Secadora,secadora,257,0.05786984913307813,False,fora do intervalo 10-90% ou não top10 por frequência
+Berço,berco,35,0.007881107858590407,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 32 polegadas,tv de 32 polegadas,21,0.0047286647151542445,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira GE - duplex ,geladeira ge - duplex,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás de aço inoxidável,fogao a gas de aco inoxidavel,55,0.012384598063499211,False,fora do intervalo 10-90% ou não top10 por frequência
+Itens básicos de praia,itens basicos de praia,364,0.08196352172934024,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito em garagem na propriedade: 1 vaga,estacionamento gratuito em garagem na propriedade: 1 vaga,191,0.04300833145687908,False,fora do intervalo 10-90% ou não top10 por frequência
+Mesa de ping pong,mesa de ping pong,21,0.0047286647151542445,False,fora do intervalo 10-90% ou não top10 por frequência
+Mesa de bilhar,mesa de bilhar,249,0.05606845305111462,False,fora do intervalo 10-90% ou não top10 por frequência
+Rampa de skate,rampa de skate,15,0.003377617653681603,False,fora do intervalo 10-90% ou não top10 por frequência
+Sala de jogos para crianças,sala de jogos para criancas,30,0.006755235307363206,False,fora do intervalo 10-90% ou não top10 por frequência
+Banheira,banheira,99,0.022292276514298583,False,fora do intervalo 10-90% ou não top10 por frequência
+Bidê,bide,112,0.025219545147489305,False,fora do intervalo 10-90% ou não top10 por frequência
+Kit de primeiros socorros,kit de primeiros socorros,173,0.03895519027246116,False,fora do intervalo 10-90% ou não top10 por frequência
+Xampu,xampu,136,0.03062373339337987,False,fora do intervalo 10-90% ou não top10 por frequência
+Condicionador,condicionador,86,0.019365007881107857,False,fora do intervalo 10-90% ou não top10 por frequência
+Gel de banho,gel de banho,30,0.006755235307363206,False,fora do intervalo 10-90% ou não top10 por frequência
+Equipamento ginástica,equipamento ginastica,172,0.038730015762215714,False,fora do intervalo 10-90% ou não top10 por frequência
+Fliperama,fliperama,13,0.0029272686331907227,False,fora do intervalo 10-90% ou não top10 por frequência
+Cinema,cinema,9,0.002026570592208962,False,fora do intervalo 10-90% ou não top10 por frequência
+Pista de boliche,pista de boliche,68,0.015311866696689935,False,fora do intervalo 10-90% ou não top10 por frequência
+Frigobar,frigobar,228,0.05133978833596037,False,fora do intervalo 10-90% ou não top10 por frequência
+Cafeteira: Nespresso,cafeteira: nespresso,19,0.004278315694663364,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina,piscina,272,0.06124746678675974,False,fora do intervalo 10-90% ou não top10 por frequência
+Sauna,sauna,41,0.00923215492006305,False,fora do intervalo 10-90% ou não top10 por frequência
+Academia,academia,111,0.024994370637243864,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para a piscina,vista para a piscina,28,0.006304886286872326,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina privativa,piscina privativa,22,0.004953839225399685,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico Other,fogao eletrico other,31,0.0069804098176086465,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás,fogao a gas,355,0.07993695113713127,False,fora do intervalo 10-90% ou não top10 por frequência
+TV com TV a cabo,tv com tv a cabo,120,0.027020941229452825,False,fora do intervalo 10-90% ou não top10 por frequência
+Jacuzzi,jacuzzi,81,0.018239135329880658,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina compartilhada,piscina compartilhada,22,0.004953839225399685,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira electrolux,geladeira electrolux,43,0.009682503940553928,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão electrolux de aço inoxidável,fogao electrolux de aco inoxidavel,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno electrolux de aço inoxidável,forno electrolux de aco inoxidavel,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para o mar,vista para o mar,338,0.07610898446295879,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico,fogao eletrico,47,0.01058320198153569,False,fora do intervalo 10-90% ou não top10 por frequência
+Livros e material de leitura,livros e material de leitura,158,0.03557757261877956,False,fora do intervalo 10-90% ou não top10 por frequência
+Tranca na porta do quarto,tranca na porta do quarto,165,0.037153794190497635,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 32 polegadas,tv de alta definicao de 32 polegadas,23,0.005179013735645125,False,fora do intervalo 10-90% ou não top10 por frequência
+Sala temática,sala tematica,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Cadeira alta com encaixe para mesa,cadeira alta com encaixe para mesa,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Jogos de tabuleiro,jogos de tabuleiro,184,0.041432109885161,False,fora do intervalo 10-90% ou não top10 por frequência
+Cadeira espreguiçadeira,cadeira espreguicadeira,108,0.024318847106507543,False,fora do intervalo 10-90% ou não top10 por frequência
+Academia compartilhada (no prédio),academia compartilhada (no predio),32,0.007205584327854087,False,fora do intervalo 10-90% ou não top10 por frequência
+Portões de segurança para bebês,portoes de seguranca para bebes,36,0.008106282368835848,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno de aço inoxidável,forno de aco inoxidavel,132,0.02972303535239811,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 43 polegadas com Netflix, Amazon Prime Video, Disney+","tv de alta definicao de 43 polegadas com netflix, amazon prime video, disney+",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (58 Mbps),wi-fi rapido (58 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Acesso ao resort,acesso ao resort,7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+Pátio ou varanda compartilhada,patio ou varanda compartilhada,95,0.02139157847331682,False,fora do intervalo 10-90% ou não top10 por frequência
+Teclado numérico,teclado numerico,145,0.03265030398558883,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Consul de aço inoxidável,forno normal consul de aco inoxidavel,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Local para guardar as roupas: closet,local para guardar as roupas: closet,49,0.01103355100202657,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para o vale,vista para o vale,8,0.0018013960819635217,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 58 polegadas com Amazon Prime Video, Disney+, HBO Max, Netflix, TV a cabo","tv de alta definicao de 58 polegadas com amazon prime video, disney+, hbo max, netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Ar-condicionado central,ar-condicionado central,41,0.00923215492006305,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Brastemp,fogao a gas brastemp,18,0.004053141184417924,False,fora do intervalo 10-90% ou não top10 por frequência
+"Churrasqueira: a carvão, elétrica","churrasqueira: a carvao, eletrica",4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Casa térrea,casa terrea,108,0.024318847106507543,False,fora do intervalo 10-90% ou não top10 por frequência
+Secadora na acomodação por Gratuito,secadora na acomodacao por gratuito,217,0.048862868723260525,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Netflix, Amazon Prime Video","tv de alta definicao de 55 polegadas com netflix, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Philco,forno normal philco,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cafeteira: cafeteira elétrica, cafeteira com coador","cafeteira: cafeteira eletrica, cafeteira com coador",28,0.006304886286872326,False,fora do intervalo 10-90% ou não top10 por frequência
+Recomendações de babás,recomendacoes de babas,20,0.004503490204908804,False,fora do intervalo 10-90% ou não top10 por frequência
+Lareira interna,lareira interna,40,0.009006980409817608,False,fora do intervalo 10-90% ou não top10 por frequência
+Panela elétrica de arroz,panela eletrica de arroz,59,0.013285296104480973,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para o porto,vista para o porto,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Lava-louças,lava-loucas,136,0.03062373339337987,False,fora do intervalo 10-90% ou não top10 por frequência
+Máquina de pão,maquina de pao,19,0.004278315694663364,False,fora do intervalo 10-90% ou não top10 por frequência
+Acesso à praia compartilhado — à beira-mar,acesso a praia compartilhado  a beira-mar,112,0.025219545147489305,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som,sistema de som,51,0.011483900022517451,False,fora do intervalo 10-90% ou não top10 por frequência
+Livros e brinquedos infantis para crianças de 0 a 2 anos de idade,livros e brinquedos infantis para criancas de 0 a 2 anos de idade,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Banheira de bebê: sempre na acomodação,banheira de bebe: sempre na acomodacao,12,0.002702094122945283,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (262 Mbps),wi-fi rapido (262 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Bicicletas,bicicletas,37,0.008331456879081288,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 32 polegadas com Netflix, TV a cabo","tv de alta definicao de 32 polegadas com netflix, tv a cabo",5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Banheira de bebê,banheira de bebe,41,0.00923215492006305,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (94 Mbps),wi-fi rapido (94 mbps),2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Fischer ,fogao a gas fischer,18,0.004053141184417924,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Diversos para o corpo,sabonete diversos para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 50 polegadas com Netflix,tv de alta definicao de 50 polegadas com netflix,12,0.002702094122945283,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (229 Mbps),wi-fi rapido (229 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Garagem residencial gratuita na propriedade: 1 vaga,garagem residencial gratuita na propriedade: 1 vaga,70,0.015762215717180814,False,fora do intervalo 10-90% ou não top10 por frequência
+HDTV com Chromecast,hdtv com chromecast,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 32 polegadas com TV a cabo,tv de alta definicao de 32 polegadas com tv a cabo,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Protetores de cantos de mesa,protetores de cantos de mesa,15,0.003377617653681603,False,fora do intervalo 10-90% ou não top10 por frequência
+Aquecedor split,aquecedor split,73,0.016437739247917135,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Eletrolux  de aço inoxidável,forno normal eletrolux  de aco inoxidavel,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Quintal privado — totalmente cercado,quintal privado  totalmente cercado,71,0.015987390227426256,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cozinha ao ar livre com forno, pia","cozinha ao ar livre com forno, pia",7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 43 polegadas com Apple TV, TV a cabo","tv de 43 polegadas com apple tv, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (582 Mbps),wi-fi rapido (582 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Electrolux,fogao a gas electrolux,17,0.003827966674172484,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito em garagem na propriedade: 2 vagas,estacionamento gratuito em garagem na propriedade: 2 vagas,99,0.022292276514298583,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão de aço inoxidável,fogao de aco inoxidavel,7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para o lago,vista para o lago,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para o parque,vista para o parque,10,0.002251745102454402,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para o rio,vista para o rio,22,0.004953839225399685,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Netflix, TV a cabo premium","tv de alta definicao de 55 polegadas com netflix, tv a cabo premium",3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"Equipamento para exercícios: elíptico, halteres","equipamento para exercicios: eliptico, halteres",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Cercadinho/berço portátil,cercadinho/berco portatil,11,0.0024769196126998424,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 42 polegadas,tv de 42 polegadas,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Netflix, TV a cabo premium, TV a cabo","tv de alta definicao de 55 polegadas com netflix, tv a cabo premium, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Quintal privado,quintal privado,11,0.0024769196126998424,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 60 polegadas com Amazon Prime Video, Netflix","tv de alta definicao de 60 polegadas com amazon prime video, netflix",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Eletrolux,geladeira eletrolux,45,0.01013285296104481,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Electrolux de aço inoxidável,fogao a gas electrolux de aco inoxidavel,8,0.0018013960819635217,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 32 polegadas com Chromecast,tv de alta definicao de 32 polegadas com chromecast,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 39 Mbps,wi-fi: 39 mbps,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Cozinha ao ar livre,cozinha ao ar livre,29,0.006530060797117767,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Brastemp ,geladeira brastemp,70,0.015762215717180814,False,fora do intervalo 10-90% ou não top10 por frequência
+"Local para guardar as roupas: closet, closet, guarda-roupa e cômoda","local para guardar as roupas: closet, closet, guarda-roupa e comoda",7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+Jacuzzi privativa,jacuzzi privativa,32,0.007205584327854087,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 55 polegadas,tv de alta definicao de 55 polegadas,11,0.0024769196126998424,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Dako,fogao a gas dako,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina interna compartilhada - disponível o ano todo, disponível 24 horas","piscina interna compartilhada - disponivel o ano todo, disponivel 24 horas",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Jacuzzi compartilhada,jacuzzi compartilhada,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Console de video game,console de video game,11,0.0024769196126998424,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 40 polegadas,tv de 40 polegadas,8,0.0018013960819635217,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Eleteolux ,geladeira eleteolux,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno philco,forno philco,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Acesso gratuito ao resort,acesso gratuito ao resort,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento pago na rua,estacionamento pago na rua,24,0.005404188245890566,False,fora do intervalo 10-90% ou não top10 por frequência
+Cozinha compartilhada ao ar livre,cozinha compartilhada ao ar livre,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+HDTV com TV a cabo premium,hdtv com tv a cabo premium,12,0.002702094122945283,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 47 polegadas com TV a cabo,tv de alta definicao de 47 polegadas com tv a cabo,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 42 polegadas,tv de alta definicao de 42 polegadas,15,0.003377617653681603,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 43 polegadas com Amazon Prime Video, Disney+, Netflix","tv de alta definicao de 43 polegadas com amazon prime video, disney+, netflix",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Sauna privativa,sauna privativa,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Academia privativa (no prédio),academia privativa (no predio),8,0.0018013960819635217,False,fora do intervalo 10-90% ou não top10 por frequência
+Máquina de lavar no prédio por Pago,maquina de lavar no predio por pago,40,0.009006980409817608,False,fora do intervalo 10-90% ou não top10 por frequência
+TV com Netflix,tv com netflix,18,0.004053141184417924,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Da geladeira ,geladeira da geladeira,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Amazon Prime Video, Apple TV, Disney+, Netflix, TV a cabo premium","tv de alta definicao de 55 polegadas com amazon prime video, apple tv, disney+, netflix, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito em garagem na propriedade: 3 vagas,estacionamento gratuito em garagem na propriedade: 3 vagas,14,0.003152443143436163,False,fora do intervalo 10-90% ou não top10 por frequência
+Acesso ao lago,acesso ao lago,29,0.006530060797117767,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 32 polegadas com Netflix,tv de alta definicao de 32 polegadas com netflix,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Cofre,cofre,35,0.007881107858590407,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina externa compartilhada,piscina externa compartilhada,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Academia compartilhada,academia compartilhada,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 50 polegadas com Chromecast, TV a cabo","tv de 50 polegadas com chromecast, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico Fischer,fogao eletrico fischer,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Fischer de aço inoxidável,forno fischer de aco inoxidavel,25,0.005629362756136005,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 50 polegadas,tv de alta definicao de 50 polegadas,19,0.004278315694663364,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão por indução,fogao por inducao,14,0.003152443143436163,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 43 polegadas com Amazon Prime Video,tv de 43 polegadas com amazon prime video,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Local para guardar as roupas: closet e guarda-roupa,local para guardar as roupas: closet e guarda-roupa,43,0.009682503940553928,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com Amazon Prime Video, Netflix, TV a cabo","tv de alta definicao de 50 polegadas com amazon prime video, netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sala de estar privada,sala de estar privada,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 25 Mbps,wi-fi: 25 mbps,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Brastemp de aço inoxidável,fogao a gas brastemp de aco inoxidavel,9,0.002026570592208962,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 31 Mbps,wi-fi: 31 mbps,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (86 Mbps),wi-fi rapido (86 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 42 polegadas com Netflix,tv de alta definicao de 42 polegadas com netflix,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (306 Mbps),wi-fi rapido (306 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Local para guardar as roupas: cômoda,local para guardar as roupas: comoda,33,0.007430758838099527,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 70 polegadas com Amazon Prime Video, Disney+, HBO Max, Netflix","tv de alta definicao de 70 polegadas com amazon prime video, disney+, hbo max, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Equipamento para exercícios: tapete de ioga,equipamento para exercicios: tapete de ioga,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Livros e brinquedos infantis para crianças de 5 a 10 anos de idade,livros e brinquedos infantis para criancas de 5 a 10 anos de idade,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (501 Mbps),wi-fi rapido (501 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Samsung,geladeira samsung,7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Esmaltec de aço inoxidável,fogao a gas esmaltec de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Esmaltec de aço inoxidável,forno esmaltec de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 43 polegadas com TV a cabo,tv de alta definicao de 43 polegadas com tv a cabo,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (122 Mbps),wi-fi rapido (122 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Midea,geladeira midea,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 40 polegadas com TV a cabo,tv de alta definicao de 40 polegadas com tv a cabo,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Disney+, Netflix, TV a cabo premium, TV a cabo, Aparelho de DVD, Apple TV, HBO Max, Amazon Prime Video","tv de alta definicao de 55 polegadas com disney+, netflix, tv a cabo premium, tv a cabo, aparelho de dvd, apple tv, hbo max, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina compartilhada - disponível por estação do ano, disponível em horários específicos, terraço","piscina compartilhada - disponivel por estacao do ano, disponivel em horarios especificos, terraco",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV com Netflix, TV a cabo","tv com netflix, tv a cabo",4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Brastemp  de aço inoxidável,forno brastemp  de aco inoxidavel,8,0.0018013960819635217,False,fora do intervalo 10-90% ou não top10 por frequência
+Café da Manhã,cafe da manha,8,0.0018013960819635217,False,fora do intervalo 10-90% ou não top10 por frequência
+Secadora  (na unidade),secadora  (na unidade),12,0.002702094122945283,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som com Bluetooth,sistema de som com bluetooth,11,0.0024769196126998424,False,fora do intervalo 10-90% ou não top10 por frequência
+Cercadinho/berço portátil: disponível mediante solicitação,cercadinho/berco portatil: disponivel mediante solicitacao,9,0.002026570592208962,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Cervejeira,geladeira cervejeira,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cafeteira: Nespresso, cafeteira com coador","cafeteira: nespresso, cafeteira com coador",6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Máquina de lavar  (na unidade),maquina de lavar  (na unidade),42,0.009457329430308489,False,fora do intervalo 10-90% ou não top10 por frequência
+Aquecedor portátil,aquecedor portatil,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Churrasqueira privativa: a gás,churrasqueira privativa: a gas,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Netflix, HBO Max, Disney+, Amazon Prime Video","tv de alta definicao de 55 polegadas com netflix, hbo max, disney+, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (77 Mbps),wi-fi rapido (77 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão Other,fogao other,22,0.004953839225399685,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Do fogão a gás ,forno normal do fogao a gas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito em garagem na propriedade,estacionamento gratuito em garagem na propriedade,36,0.008106282368835848,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com TV a cabo premium, TV a cabo, Netflix","tv de alta definicao de 55 polegadas com tv a cabo premium, tv a cabo, netflix",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Dove para o corpo,sabonete dove para o corpo,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 42 polegadas com Amazon Prime Video,tv de alta definicao de 42 polegadas com amazon prime video,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Livros e brinquedos infantis para crianças de 2 a 5 anos de idade,livros e brinquedos infantis para criancas de 2 a 5 anos de idade,11,0.0024769196126998424,False,fora do intervalo 10-90% ou não top10 por frequência
+Banheira de bebê: disponível mediante solicitação,banheira de bebe: disponivel mediante solicitacao,7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Panasonic ,geladeira panasonic,13,0.0029272686331907227,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno duplo Electrolux  de aço inoxidável,forno duplo electrolux  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina externa compartilhada - disponível o ano todo, disponível em horários específicos","piscina externa compartilhada - disponivel o ano todo, disponivel em horarios especificos",3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogueira,fogueira,50,0.01125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 40 polegadas,tv de alta definicao de 40 polegadas,7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão fischer,fogao fischer,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito em local coberto na propriedade,estacionamento gratuito em local coberto na propriedade,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Churrasqueira privativa: a carvão, a lenha","churrasqueira privativa: a carvao, a lenha",16,0.0036027921639270434,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cafeteira: máquina de espresso, cafeteira com coador","cafeteira: maquina de espresso, cafeteira com coador",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Entrada/saída para esquis,entrada/saida para esquis,8,0.0018013960819635217,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 48 polegadas com Amazon Prime Video, Apple TV, Disney+, HBO Max, Netflix, TV a cabo premium, TV a cabo","tv de alta definicao de 48 polegadas com amazon prime video, apple tv, disney+, hbo max, netflix, tv a cabo premium, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno duplo de aço inoxidável,forno duplo de aco inoxidavel,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Chromecast, Netflix","hdtv com chromecast, netflix",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 43 polegadas com Netflix,tv de alta definicao de 43 polegadas com netflix,7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+Sauna compartilhada,sauna compartilhada,36,0.008106282368835848,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 55 polegadas com Netflix,tv de alta definicao de 55 polegadas com netflix,9,0.002026570592208962,False,fora do intervalo 10-90% ou não top10 por frequência
+Monitores de ruído na propriedade,monitores de ruido na propriedade,25,0.005629362756136005,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 49 polegadas com Netflix,tv de alta definicao de 49 polegadas com netflix,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (148 Mbps),wi-fi rapido (148 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 22 Mbps,wi-fi: 22 mbps,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Secadora Gratuito,secadora gratuito,17,0.003827966674172484,False,fora do intervalo 10-90% ou não top10 por frequência
+Máquina de lavar no prédio por Gratuito,maquina de lavar no predio por gratuito,14,0.003152443143436163,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 32 polegadas com TV a cabo premium,tv de 32 polegadas com tv a cabo premium,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Quintal compartilhado,quintal compartilhado,8,0.0018013960819635217,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina interna compartilhada - disponível por estação do ano, disponível em horários específicos","piscina interna compartilhada - disponivel por estacao do ano, disponivel em horarios especificos",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Carregador de veículos elétricos,carregador de veiculos eletricos,11,0.0024769196126998424,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV com Netflix, Amazon Prime Video, Apple TV, Chromecast, Disney+, HBO Max","tv com netflix, amazon prime video, apple tv, chromecast, disney+, hbo max",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Local para guardar as roupas: closet, guarda-roupa e cômoda","local para guardar as roupas: closet, guarda-roupa e comoda",21,0.0047286647151542445,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com TV a cabo, Netflix, TV a cabo premium, Aparelho de DVD, Amazon Prime Video","tv de alta definicao de 50 polegadas com tv a cabo, netflix, tv a cabo premium, aparelho de dvd, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico Other de aço inoxidável,fogao eletrico other de aco inoxidavel,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno elwtrolux de aço inoxidável,forno elwtrolux de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 60 polegadas,tv de 60 polegadas,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (52 Mbps),wi-fi rapido (52 mbps),2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Brastemp  de aço inoxidável,forno normal brastemp  de aco inoxidavel,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"Jacuzzi privativa: disponível o ano todo, disponível 24 horas","jacuzzi privativa: disponivel o ano todo, disponivel 24 horas",5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Atlas,forno normal atlas,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (583 Mbps),wi-fi rapido (583 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Local para guardar as roupas: closet, closet e guarda-roupa","local para guardar as roupas: closet, closet e guarda-roupa",3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira consul,geladeira consul,61,0.013735645124971853,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 43 polegadas com Netflix, Roku","tv de alta definicao de 43 polegadas com netflix, roku",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (125 Mbps),wi-fi rapido (125 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Mônaco Plus,fogao a gas monaco plus,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 42 polegadas com TV a cabo premium,tv de alta definicao de 42 polegadas com tv a cabo premium,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito em local coberto na propriedade:2 vagas,estacionamento gratuito em local coberto na propriedade:2 vagas,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Fischer,forno normal fischer,18,0.004053141184417924,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 43 polegadas,tv de 43 polegadas,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a lenha Other,fogao a lenha other,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 42 polegadas com TV a cabo,tv de 42 polegadas com tv a cabo,8,0.0018013960819635217,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira BOSCH,geladeira bosch,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Outro de aço inoxidável,fogao a gas outro de aco inoxidavel,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno a gás,forno a gas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Miele,fogao a gas miele,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 42 polegadas com Netflix, TV a cabo","tv de alta definicao de 42 polegadas com netflix, tv a cabo",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Berço: disponível mediante solicitação,berco: disponivel mediante solicitacao,13,0.0029272686331907227,False,fora do intervalo 10-90% ou não top10 por frequência
+Aquecimento central,aquecimento central,30,0.006755235307363206,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 45 polegadas,tv de 45 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 42 polegadas com Netflix,tv de 42 polegadas com netflix,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 50 polegadas com TV a cabo,tv de 50 polegadas com tv a cabo,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+HDTV com Amazon Prime Video,hdtv com amazon prime video,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Philco de aço inoxidável,fogao a gas philco de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 43 polegadas com TV a cabo premium,tv de alta definicao de 43 polegadas com tv a cabo premium,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 32 polegadas com Amazon Prime Video, Netflix, TV a cabo","tv de alta definicao de 32 polegadas com amazon prime video, netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Mosquiteiro,mosquiteiro,19,0.004278315694663364,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Otro,fogao a gas otro,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 65 polegadas com Netflix,tv de alta definicao de 65 polegadas com netflix,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Eletrolux 593litros,geladeira eletrolux 593litros,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão Cooktop 5 bocas Fischer  de aço inoxidável,fogao cooktop 5 bocas fischer  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Brastemp 84 lt embutido (mod. BOC84AE) de aço inoxidável,forno brastemp 84 lt embutido (mod. boc84ae) de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Lareira interna: elétrica,lareira interna: eletrica,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Frigobar Midea 93 litros,geladeira frigobar midea 93 litros,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão Fogão elétrico de 2 bocas,fogao fogao eletrico de 2 bocas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Forno elétrico ,forno forno eletrico,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão por indução Other,fogao por inducao other,18,0.004053141184417924,False,fora do intervalo 10-90% ou não top10 por frequência
+Carregador de veículos elétricos: nível 2,carregador de veiculos eletricos: nivel 2,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Philco,fogao a gas philco,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Fischer,forno fischer,10,0.002251745102454402,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (293 Mbps),wi-fi rapido (293 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Brastemp de aço inoxidável,forno brastemp de aco inoxidavel,8,0.0018013960819635217,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 55 polegadas,tv de 55 polegadas,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Electrolux IF55,geladeira electrolux if55,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Brastemp BOA84AERNA,forno normal brastemp boa84aerna,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Cervejeira-adega climatizada,geladeira cervejeira-adega climatizada,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Churrasqueira: a carvão, a lenha","churrasqueira: a carvao, a lenha",15,0.003377617653681603,False,fora do intervalo 10-90% ou não top10 por frequência
+Garagem residencial gratuita na propriedade:3 vagas,garagem residencial gratuita na propriedade:3 vagas,9,0.002026570592208962,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para o canal,vista para o canal,20,0.004503490204908804,False,fora do intervalo 10-90% ou não top10 por frequência
+Lareira interna: etanol,lareira interna: etanol,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Serviços de limpeza: incluso na sua estadia,servicos de limpeza: incluso na sua estadia,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito em garagem na propriedade: 4 vagas,estacionamento gratuito em garagem na propriedade: 4 vagas,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina privativa - disponível 24 horas,piscina privativa - disponivel 24 horas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 46 polegadas,tv de alta definicao de 46 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão Cooktop mondial novo,fogao cooktop mondial novo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito na propriedade: 2 vagas,estacionamento gratuito na propriedade: 2 vagas,9,0.002026570592208962,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (93 Mbps),wi-fi rapido (93 mbps),2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito em local coberto na propriedade:1 vaga,estacionamento gratuito em local coberto na propriedade:1 vaga,8,0.0018013960819635217,False,fora do intervalo 10-90% ou não top10 por frequência
+TV com TV a cabo premium,tv com tv a cabo premium,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão por indução Philco,fogao por inducao philco,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Churrasqueira: elétrica,churrasqueira: eletrica,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno ficher de aço inoxidável,forno ficher de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Acesso particular à praia — em frente à praia,acesso particular a praia  em frente a praia,9,0.002026570592208962,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com HBO Max, Netflix, TV a cabo premium, Disney+","hdtv com hbo max, netflix, tv a cabo premium, disney+",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 34 Mbps,wi-fi: 34 mbps,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Outro,fogao a gas outro,14,0.003152443143436163,False,fora do intervalo 10-90% ou não top10 por frequência
+Churrasqueira privativa,churrasqueira privativa,16,0.0036027921639270434,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 55 polegadas com Netflix,tv de 55 polegadas com netflix,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina externa compartilhada - disponível o ano todo, disponível em horários específicos, piscina de natação","piscina externa compartilhada - disponivel o ano todo, disponivel em horarios especificos, piscina de natacao",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Xampu Dove,xampu dove,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Condicionador Dove,condicionador dove,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 32 polegadas com TV a cabo,tv de 32 polegadas com tv a cabo,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Esmaltec de aço inoxidável,forno normal esmaltec de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 32 polegadas com Chromecast,tv de 32 polegadas com chromecast,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Disney+, Netflix","hdtv com disney+, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Amazon Prime Video, Apple TV, Disney+, Fire TV, HBO Max, Netflix","hdtv com amazon prime video, apple tv, disney+, fire tv, hbo max, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina compartilhada - disponível o ano todo, disponível em horários específicos","piscina compartilhada - disponivel o ano todo, disponivel em horarios especificos",6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Piano,piano,9,0.002026570592208962,False,fora do intervalo 10-90% ou não top10 por frequência
+Garagem residencial gratuita na propriedade,garagem residencial gratuita na propriedade,15,0.003377617653681603,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 40 polegadas com Netflix, TV a cabo premium","tv de alta definicao de 40 polegadas com netflix, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (170 Mbps),wi-fi rapido (170 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Netflix, TV a cabo premium","hdtv com netflix, tv a cabo premium",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento pago em garagem na propriedade: 1 vaga,estacionamento pago em garagem na propriedade: 1 vaga,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Muller ,forno muller,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 42 polegadas com Chromecast, Netflix, TV a cabo","tv de alta definicao de 42 polegadas com chromecast, netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 43 polegadas com Aparelho de DVD, Netflix","tv de alta definicao de 43 polegadas com aparelho de dvd, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Toca-discos,toca-discos,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Secadora no prédio por Pago,secadora no predio por pago,14,0.003152443143436163,False,fora do intervalo 10-90% ou não top10 por frequência
+Churrasqueira compartilhada,churrasqueira compartilhada,7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Amazon Prime Video, Netflix, Disney+","hdtv com amazon prime video, netflix, disney+",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cafeteira: máquina de espresso, Nespresso","cafeteira: maquina de espresso, nespresso",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 32 polegadas com TV a cabo premium,tv de alta definicao de 32 polegadas com tv a cabo premium,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina externa compartilhada - disponível o ano todo, aquecida, cobertura da piscina","piscina externa compartilhada - disponivel o ano todo, aquecida, cobertura da piscina",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira eletrolux com freezer,geladeira eletrolux com freezer,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito na entrada da propriedade: 1 vaga,estacionamento gratuito na entrada da propriedade: 1 vaga,12,0.002702094122945283,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com Netflix, TV a cabo","tv de alta definicao de 50 polegadas com netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som bose,sistema de som bose,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Videogame: Nintendo Wii,videogame: nintendo wii,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som Air Track Samsung  com Bluetooth,sistema de som air track samsung  com bluetooth,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Consul Frost free,geladeira consul frost free,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Acesso particular à praia,acesso particular a praia,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Churrasqueira compartilhada: a carvão,churrasqueira compartilhada: a carvao,11,0.0024769196126998424,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 32 polegadas com TV a cabo, Netflix","tv de alta definicao de 32 polegadas com tv a cabo, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (55 Mbps),wi-fi rapido (55 mbps),2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás ficher,fogao a gas ficher,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 32 polegadas com Apple TV, TV a cabo","tv de 32 polegadas com apple tv, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Continental Duplex 300L,geladeira continental duplex 300l,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás DE bancada 4 bocas de aço inoxidável,fogao a gas de bancada 4 bocas de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Forno Fischer com timer de aço inoxidável,forno forno fischer com timer de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 47 polegadas com Amazon Prime Video, Fire TV, Netflix","tv de alta definicao de 47 polegadas com amazon prime video, fire tv, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 42 polegadas com Netflix, TV a cabo premium","tv de alta definicao de 42 polegadas com netflix, tv a cabo premium",3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (203 Mbps),wi-fi rapido (203 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito na propriedade: 4 vagas,estacionamento gratuito na propriedade: 4 vagas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 55 polegadas com Chromecast,tv de alta definicao de 55 polegadas com chromecast,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Laser tag,laser tag,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 45 Mbps,wi-fi: 45 mbps,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Forno elétrico ,forno normal forno eletrico,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com Netflix, HBO Max, Amazon Prime Video, Disney+, TV a cabo premium","tv de alta definicao de 50 polegadas com netflix, hbo max, amazon prime video, disney+, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Brastemp,forno brastemp,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+TV com Chromecast,tv com chromecast,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina interna privativa - disponível 24 horas,piscina interna privativa - disponivel 24 horas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 42 polegadas com TV a cabo,tv de alta definicao de 42 polegadas com tv a cabo,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Caiaque,caiaque,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som Sumay com Bluetooth,sistema de som sumay com bluetooth,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cafeteira: cafeteira elétrica, máquina de espresso","cafeteira: cafeteira eletrica, maquina de espresso",10,0.002251745102454402,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 47 polegadas com Netflix,tv de alta definicao de 47 polegadas com netflix,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Livros e brinquedos infantis para crianças de 2 a 5 anos de idade e Mais de 10 anos de idade,livros e brinquedos infantis para criancas de 2 a 5 anos de idade e mais de 10 anos de idade,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 50 polegadas com TV a cabo premium,tv de 50 polegadas com tv a cabo premium,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"Serviços de limpeza disponíveis 4 horas por dia, todos os dias disponível a um custo extra","servicos de limpeza disponiveis 4 horas por dia, todos os dias disponivel a um custo extra",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 42 polegadas com Apple TV,tv de 42 polegadas com apple tv,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (114 Mbps),wi-fi rapido (114 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para a marina,vista para a marina,12,0.002702094122945283,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Mueller  de aço inoxidável,forno mueller  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com HBO Max, Disney+, Netflix, TV a cabo, Amazon Prime Video, TV a cabo premium, Chromecast, Apple TV","tv de alta definicao de 50 polegadas com hbo max, disney+, netflix, tv a cabo, amazon prime video, tv a cabo premium, chromecast, apple tv",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (76 Mbps),wi-fi rapido (76 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete NIVEA  para o corpo,sabonete nivea  para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Duplo,forno duplo,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Bosch,fogao a gas bosch,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Bosch ,forno normal bosch,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 55 polegadas com TV a cabo,tv de alta definicao de 55 polegadas com tv a cabo,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina (disponível por estação do ano, disponível em horários específicos)","piscina (disponivel por estacao do ano, disponivel em horarios especificos)",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Amazon Prime Video, Netflix","hdtv com amazon prime video, netflix",3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina interna compartilhada - disponível o ano todo, disponível em horários específicos, cobertura da piscina","piscina interna compartilhada - disponivel o ano todo, disponivel em horarios especificos, cobertura da piscina",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Quintal privado — não é totalmente cercado,quintal privado  nao e totalmente cercado,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV com Roku, Netflix","tv com roku, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Müller ,fogao a gas muller,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"Serviços de limpeza disponíveis 8 horas por dia, todos os dias disponível a um custo extra","servicos de limpeza disponiveis 8 horas por dia, todos os dias disponivel a um custo extra",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Serviços de limpeza: disponível a um custo extra,servicos de limpeza: disponivel a um custo extra,8,0.0018013960819635217,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (81 Mbps),wi-fi rapido (81 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Local para guardar as roupas: closet e closet,local para guardar as roupas: closet e closet,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para o deserto,vista para o deserto,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Ar-condicionado portátil,ar-condicionado portatil,7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 40 polegadas com Netflix, Amazon Prime Video","tv de alta definicao de 40 polegadas com netflix, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 43 polegadas com TV a cabo,tv de 43 polegadas com tv a cabo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Secadora na acomodação por Pago,secadora na acomodacao por pago,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Aparelho de DVD, Disney+, Amazon Prime Video, Netflix","tv de alta definicao de 55 polegadas com aparelho de dvd, disney+, amazon prime video, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Netflix, Roku","tv de alta definicao de 55 polegadas com netflix, roku",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com Disney+, Netflix","tv de alta definicao de 50 polegadas com disney+, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (277 Mbps),wi-fi rapido (277 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 12 polegadas com TV a cabo,tv de alta definicao de 12 polegadas com tv a cabo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 43 polegadas,tv de alta definicao de 43 polegadas,10,0.002251745102454402,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (151 Mbps),wi-fi rapido (151 mbps),2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cafeteira: cafeteira elétrica, cafeteira francesa","cafeteira: cafeteira eletrica, cafeteira francesa",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 43 polegadas com TV a cabo, Netflix","tv de alta definicao de 43 polegadas com tv a cabo, netflix",3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"Livros e brinquedos infantis para crianças de 0 a 2 anos de idade, 2 a 5 anos de idade, 5 a 10 anos de idade e Mais de 10 anos de idade","livros e brinquedos infantis para criancas de 0 a 2 anos de idade, 2 a 5 anos de idade, 5 a 10 anos de idade e mais de 10 anos de idade",4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Fischer elétrico,forno normal fischer eletrico,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 50 polegadas,tv de 50 polegadas,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Livros e brinquedos infantis para crianças de 2 a 5 anos de idade e 5 a 10 anos de idade,livros e brinquedos infantis para criancas de 2 a 5 anos de idade e 5 a 10 anos de idade,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Panassonic,geladeira panassonic,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 43 polegadas com Aparelho de DVD,tv de alta definicao de 43 polegadas com aparelho de dvd,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Berço: sempre na acomodação,berco: sempre na acomodacao,9,0.002026570592208962,False,fora do intervalo 10-90% ou não top10 por frequência
+Livros e brinquedos infantis para crianças de 0 a 2 anos de idade e 2 a 5 anos de idade,livros e brinquedos infantis para criancas de 0 a 2 anos de idade e 2 a 5 anos de idade,7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+Cadeira alta: sempre na acomodação,cadeira alta: sempre na acomodacao,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Consul  Frostfree,geladeira consul  frostfree,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás cooktop,fogao a gas cooktop,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Consul,forno consul,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Xampu Natury's - Frutos da Amazônia,xampu natury's - frutos da amazonia,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Natury's - Frutos da Amazônia para o corpo,sabonete natury's - frutos da amazonia para o corpo,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (67 Mbps),wi-fi rapido (67 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira ELECTROLUX DC35A,geladeira electrolux dc35a,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão por indução Phillips ou Britânia,fogao por inducao phillips ou britania,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Bicicletas para crianças,bicicletas para criancas,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal ficher,forno normal ficher,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Fisher,forno normal fisher,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Academia no prédio,academia no predio,8,0.0018013960819635217,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira B,geladeira b,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Xampu Darling,xampu darling,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Condicionador Darling,condicionador darling,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Palmolive para o corpo,sabonete palmolive para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 52 polegadas com TV a cabo,tv de alta definicao de 52 polegadas com tv a cabo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com TV a cabo premium, Netflix","hdtv com tv a cabo premium, netflix",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Cozinha externa privativa,cozinha externa privativa,17,0.003827966674172484,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 43 polegadas com Amazon Prime Video, Disney+, HBO Max, Netflix","tv de 43 polegadas com amazon prime video, disney+, hbo max, netflix",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 47 polegadas com Amazon Prime Video,tv de 47 polegadas com amazon prime video,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 58 polegadas com Netflix,tv de alta definicao de 58 polegadas com netflix,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina externa privativa - disponível o ano todo, disponível em horários específicos","piscina externa privativa - disponivel o ano todo, disponivel em horarios especificos",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 43 polegadas com Chromecast, Fire TV, HBO Max","tv de alta definicao de 43 polegadas com chromecast, fire tv, hbo max",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 50 polegadas com TV a cabo,tv de alta definicao de 50 polegadas com tv a cabo,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Netflix, TV a cabo, Disney+","hdtv com netflix, tv a cabo, disney+",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (97 Mbps),wi-fi rapido (97 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira LG,geladeira lg,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Other de aço inoxidável,fogao a gas other de aco inoxidavel,11,0.0024769196126998424,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Brastemp,forno normal brastemp,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Cafeteira: máquina de espresso,cafeteira: maquina de espresso,23,0.005179013735645125,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico Bosch,fogao eletrico bosch,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Hotelaria  para o corpo,sabonete hotelaria  para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (145 Mbps),wi-fi rapido (145 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Geladeira Geladeira Brastemp Frost Free 540 litros , 3 portas ,","geladeira geladeira brastemp frost free 540 litros , 3 portas ,",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Franke  5 bocas ,fogao a gas franke  5 bocas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Fischer fit- line grande de aço inoxidável,forno fischer fit- line grande de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 38 polegadas,tv de 38 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Continental,fogao a gas continental,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (91 Mbps),wi-fi rapido (91 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Brastemp Inverse,geladeira brastemp inverse,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Eletrolux fogão a gás,forno eletrolux fogao a gas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Brasil para o corpo,sabonete brasil para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 43 polegadas com TV a cabo, Amazon Prime Video, Apple TV, Chromecast, Disney+, Fire TV, HBO Max, Hulu, TV a cabo premium, Roku","tv de alta definicao de 43 polegadas com tv a cabo, amazon prime video, apple tv, chromecast, disney+, fire tv, hbo max, hulu, tv a cabo premium, roku",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 36 Mbps,wi-fi: 36 mbps,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 47 polegadas,tv de alta definicao de 47 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Xampu Natury's,xampu natury's,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Natury's para o corpo,sabonete natury's para o corpo,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 50 polegadas com Amazon Prime Video,tv de 50 polegadas com amazon prime video,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (278 Mbps),wi-fi rapido (278 mbps),3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 48 polegadas com Amazon Prime Video, Netflix","tv de alta definicao de 48 polegadas com amazon prime video, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Fischer de aço inoxidável,fogao a gas fischer de aco inoxidavel,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Churrasqueira privativa: a lenha,churrasqueira privativa: a lenha,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Trocador,trocador,15,0.003377617653681603,False,fora do intervalo 10-90% ou não top10 por frequência
+"Serviços de limpeza disponíveis das 10:00 às 04:00, de segunda-feira a sexta-feira disponível a um custo extra","servicos de limpeza disponiveis das 10:00 as 04:00, de segunda-feira a sexta-feira disponivel a um custo extra",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira 2 unidades,geladeira 2 unidades,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Equipamento para exercícios: elíptico, halteres, bicicleta ergométrica, esteira, banco de exercícios","equipamento para exercicios: eliptico, halteres, bicicleta ergometrica, esteira, banco de exercicios",4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (369 Mbps),wi-fi rapido (369 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Consul 120 litros,geladeira consul 120 litros,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina compartilhada - disponível o ano todo,piscina compartilhada - disponivel o ano todo,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 16 Mbps,wi-fi: 16 mbps,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Netflix, TV a cabo premium, Fire TV, Disney+","hdtv com netflix, tv a cabo premium, fire tv, disney+",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno duplo Fischer de aço inoxidável,forno duplo fischer de aco inoxidavel,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 50 polegadas com TV a cabo premium,tv de alta definicao de 50 polegadas com tv a cabo premium,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Roku, Amazon Prime Video, Disney+, Netflix, HBO Max, TV a cabo premium","tv de alta definicao de 55 polegadas com roku, amazon prime video, disney+, netflix, hbo max, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Quintal compartilhado — não é totalmente cercado,quintal compartilhado  nao e totalmente cercado,9,0.002026570592208962,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Duplex,geladeira duplex,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV com Netflix, Fire TV, HBO Max, TV a cabo premium, Disney+, Amazon Prime Video","tv com netflix, fire tv, hbo max, tv a cabo premium, disney+, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 45 polegadas,tv de alta definicao de 45 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Fischer de aço inoxidável,forno normal fischer de aco inoxidavel,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno eletrolux,forno eletrolux,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Netflix, TV a cabo","hdtv com netflix, tv a cabo",4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina interna privativa,piscina interna privativa,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 65 polegadas com Netflix, Amazon Prime Video, Apple TV, HBO Max","tv de 65 polegadas com netflix, amazon prime video, apple tv, hbo max",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito na entrada da propriedade: 2 vagas,estacionamento gratuito na entrada da propriedade: 2 vagas,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Jacuzzi compartilhada: disponível em horários específicos,jacuzzi compartilhada: disponivel em horarios especificos,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 40 polegadas com Netflix, TV a cabo premium, TV a cabo","tv de alta definicao de 40 polegadas com netflix, tv a cabo premium, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Serviços de limpeza disponíveis das 13:30 às 17:30, 1 dia por semana disponível a um custo extra","servicos de limpeza disponiveis das 13:30 as 17:30, 1 dia por semana disponivel a um custo extra",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (302 Mbps),wi-fi rapido (302 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão por indução Electrolux de aço inoxidável,fogao por inducao electrolux de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno duplo Eos  de aço inoxidável,forno duplo eos  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira continental,geladeira continental,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás eletrolux,fogao a gas eletrolux,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 50 polegadas com Netflix,tv de 50 polegadas com netflix,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira (LG) INOX,geladeira (lg) inox,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 65 polegadas com HBO Max, Netflix, TV a cabo","tv de alta definicao de 65 polegadas com hbo max, netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (99 Mbps),wi-fi rapido (99 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 42 polegadas com Amazon Prime Video, Netflix, HBO Max","tv de alta definicao de 42 polegadas com amazon prime video, netflix, hbo max",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Amazon Prime Video, Apple TV, Chromecast, Fire TV, HBO Max, Netflix","hdtv com amazon prime video, apple tv, chromecast, fire tv, hbo max, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (110 Mbps),wi-fi rapido (110 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Eletrolux duplex ,geladeira eletrolux duplex,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Frigidaire,fogao a gas frigidaire,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina privativa - ,piscina privativa -,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Xampu Não definido ,xampu nao definido,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Condicionador Não definido ,condicionador nao definido,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Não definido  para o corpo,sabonete nao definido  para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Churrasqueira privativa: elétrica,churrasqueira privativa: eletrica,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Bosh,geladeira bosh,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com TV a cabo, Amazon Prime Video, Netflix","hdtv com tv a cabo, amazon prime video, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Bosh,forno normal bosh,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 55 polegadas com TV a cabo premium,tv de alta definicao de 55 polegadas com tv a cabo premium,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão por indução de aço inoxidável,fogao por inducao de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Netflix, Amazon Prime Video","hdtv com netflix, amazon prime video",4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Midea de aço inoxidável,forno midea de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Academia compartilhada (perto de você),academia compartilhada (perto de voce),6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina (disponível o ano todo, disponível em horários específicos, borda infinita)","piscina (disponivel o ano todo, disponivel em horarios especificos, borda infinita)",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 40 polegadas com Chromecast,tv de alta definicao de 40 polegadas com chromecast,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 38 polegadas com Netflix,tv de alta definicao de 38 polegadas com netflix,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Disney+, HBO Max, Netflix","tv de alta definicao de 55 polegadas com disney+, hbo max, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 47 polegadas com Fire TV, HBO Max, Netflix, Disney+, Apple TV, Chromecast, Amazon Prime Video","tv de alta definicao de 47 polegadas com fire tv, hbo max, netflix, disney+, apple tv, chromecast, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Chromecast, Netflix, TV a cabo","hdtv com chromecast, netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Ficher,forno ficher,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (472 Mbps),wi-fi rapido (472 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 40 polegadas com Amazon Prime Video, Fire TV","tv de 40 polegadas com amazon prime video, fire tv",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com TV a cabo, Apple TV, TV a cabo premium, Netflix, Amazon Prime Video","hdtv com tv a cabo, apple tv, tv a cabo premium, netflix, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som Samsung  com Bluetooth,sistema de som samsung  com bluetooth,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão por indução Brastemp,fogao por inducao brastemp,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Eletrolux de aço inoxidável,forno normal eletrolux de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina externa compartilhada - disponível o ano todo, disponível 24 horas, aquecida, piscina de natação","piscina externa compartilhada - disponivel o ano todo, disponivel 24 horas, aquecida, piscina de natacao",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Jacuzzi compartilhada: disponível o ano todo, disponível em horários específicos","jacuzzi compartilhada: disponivel o ano todo, disponivel em horarios especificos",4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Netflix, TV a cabo premium, TV a cabo","hdtv com netflix, tv a cabo premium, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno duplo Electrolux de aço inoxidável,forno duplo electrolux de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 48 polegadas com Netflix,tv de alta definicao de 48 polegadas com netflix,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 48 Mbps,wi-fi: 48 mbps,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 49 polegadas com Netflix, TV a cabo, TV a cabo premium","tv de alta definicao de 49 polegadas com netflix, tv a cabo, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Cadeira alta com encaixe para mesa: sempre na acomodação,cadeira alta com encaixe para mesa: sempre na acomodacao,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento pago na propriedade: 3 vagas,estacionamento pago na propriedade: 3 vagas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Carregador de veículos elétricos: nível 1,carregador de veiculos eletricos: nivel 1,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 39 polegadas com TV a cabo, Netflix","tv de alta definicao de 39 polegadas com tv a cabo, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Máquina de lavar na acomodação por Pago,maquina de lavar na acomodacao por pago,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 42 polegadas com Chromecast, Fire TV, Netflix","tv de alta definicao de 42 polegadas com chromecast, fire tv, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (75 Mbps),wi-fi rapido (75 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão por indução Philips ou Britânia,fogao por inducao philips ou britania,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cozinha ao ar livre com pia, forno","cozinha ao ar livre com pia, forno",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"Serviços de limpeza disponíveis 24 horas, todos os dias disponível a um custo extra","servicos de limpeza disponiveis 24 horas, todos os dias disponivel a um custo extra",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Xampu Yamá,xampu yama,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Condicionador Yamá,condicionador yama,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Premisse para o corpo,sabonete premisse para o corpo,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+"Equipamento para exercícios: elíptico, halteres, esteira, tapete de ioga","equipamento para exercicios: eliptico, halteres, esteira, tapete de ioga",4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina externa compartilhada - disponível o ano todo, terraço","piscina externa compartilhada - disponivel o ano todo, terraco",4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (71 Mbps),wi-fi rapido (71 mbps),2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com TV a cabo, Netflix, TV a cabo premium","hdtv com tv a cabo, netflix, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com TV a cabo premium, TV a cabo","tv de alta definicao de 55 polegadas com tv a cabo premium, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Garagem residencial gratuita na propriedade:4 vagas,garagem residencial gratuita na propriedade:4 vagas,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina interna privativa - disponível o ano todo, disponível 24 horas","piscina interna privativa - disponivel o ano todo, disponivel 24 horas",3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Cadeira alta: disponível mediante solicitação,cadeira alta: disponivel mediante solicitacao,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 55 polegadas com Netflix, TV a cabo","tv de 55 polegadas com netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Vista para o resort,vista para o resort,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Fischer  de aço inoxidável,forno fischer  de aco inoxidavel,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Quintal (totalmente cercado),quintal (totalmente cercado),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina privativa - disponível o ano todo,piscina privativa - disponivel o ano todo,7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 40 polegadas com Netflix,tv de 40 polegadas com netflix,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 24 polegadas com TV a cabo premium,tv de alta definicao de 24 polegadas com tv a cabo premium,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Oster,forno oster,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Condicionador tci,condicionador tci,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 29 polegadas com Netflix,tv de alta definicao de 29 polegadas com netflix,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Rampa para barcos,rampa para barcos,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira brastemp frost free,geladeira brastemp frost free,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno maximus fischer,forno maximus fischer,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Videogame: Xbox One,videogame: xbox one,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento gratuito em garagem na propriedade: 10 vagas,estacionamento gratuito em garagem na propriedade: 10 vagas,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 43 polegadas com Netflix,tv de 43 polegadas com netflix,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 58 polegadas com Netflix, TV a cabo","tv de alta definicao de 58 polegadas com netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Equipamento para exercícios: bicicleta ergométrica, esteira","equipamento para exercicios: bicicleta ergometrica, esteira",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina privativa - disponível por estação do ano,piscina privativa - disponivel por estacao do ano,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Local para guardar as roupas: closet e cômoda,local para guardar as roupas: closet e comoda,10,0.002251745102454402,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 47 Mbps,wi-fi: 47 mbps,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Amazon Prime Video, Netflix","tv de alta definicao de 55 polegadas com amazon prime video, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão Cooktop,fogao cooktop,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Para cerveja ,geladeira para cerveja,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 42 polegadas com Netflix, Chromecast","tv de 42 polegadas com netflix, chromecast",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico Brastemp,fogao eletrico brastemp,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 20 polegadas,tv de alta definicao de 20 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 40 polegadas com HBO Max, Netflix, TV a cabo premium, Disney+, Amazon Prime Video","tv de alta definicao de 40 polegadas com hbo max, netflix, tv a cabo premium, disney+, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 42 polegadas com TV a cabo, TV a cabo premium","tv de alta definicao de 42 polegadas com tv a cabo, tv a cabo premium",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com Amazon Prime Video, Chromecast, Netflix","tv de alta definicao de 50 polegadas com amazon prime video, chromecast, netflix",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (50 Mbps),wi-fi rapido (50 mbps),2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Apple TV, Netflix","hdtv com apple tv, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Livros e brinquedos infantis para crianças de 0 a 2 anos de idade, 2 a 5 anos de idade e 5 a 10 anos de idade","livros e brinquedos infantis para criancas de 0 a 2 anos de idade, 2 a 5 anos de idade e 5 a 10 anos de idade",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"Churrasqueira compartilhada: a carvão, a lenha","churrasqueira compartilhada: a carvao, a lenha",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Electroloux,geladeira electroloux,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 70 polegadas,tv de 70 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno duplo Midea de aço inoxidável,forno duplo midea de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 55 polegadas com TV a cabo,tv de 55 polegadas com tv a cabo,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (53 Mbps),wi-fi rapido (53 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 60 polegadas com TV a cabo,tv de alta definicao de 60 polegadas com tv a cabo,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Brastemp Duples 380 litros,geladeira brastemp duples 380 litros,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (59 Mbps),wi-fi rapido (59 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (201 Mbps),wi-fi rapido (201 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com HBO Max, Netflix","tv de alta definicao de 55 polegadas com hbo max, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 40 polegadas com Amazon Prime Video, Netflix, Aparelho de DVD","tv de alta definicao de 40 polegadas com amazon prime video, netflix, aparelho de dvd",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 46 Mbps,wi-fi: 46 mbps,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som Panasonic ,sistema de som panasonic,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV com Netflix, Roku","tv com netflix, roku",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Netflix, TV a cabo, Amazon Prime Video","tv de alta definicao de 55 polegadas com netflix, tv a cabo, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Churrasqueira: a gás,churrasqueira: a gas,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Serviços de limpeza disponíveis 1 dia por semana disponível a um custo extra,servicos de limpeza disponiveis 1 dia por semana disponivel a um custo extra,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 64 polegadas com Amazon Prime Video, Apple TV, Chromecast, Disney+, HBO Max, Netflix, Aparelho de DVD","tv de alta definicao de 64 polegadas com amazon prime video, apple tv, chromecast, disney+, hbo max, netflix, aparelho de dvd",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som com entrada auxiliar,sistema de som com entrada auxiliar,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 43 polegadas com Netflix, TV a cabo","tv de alta definicao de 43 polegadas com netflix, tv a cabo",3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com Chromecast, Netflix, TV a cabo premium, TV a cabo, Amazon Prime Video, Apple TV, HBO Max, Disney+","tv de alta definicao de 50 polegadas com chromecast, netflix, tv a cabo premium, tv a cabo, amazon prime video, apple tv, hbo max, disney+",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Trocador: disponível mediante solicitação,trocador: disponivel mediante solicitacao,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Cozinha ao ar livre com pia,cozinha ao ar livre com pia,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Com freezer ,geladeira com freezer,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás AEG,fogao a gas aeg,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com HBO Max, Netflix, Disney+, Amazon Prime Video","tv de alta definicao de 55 polegadas com hbo max, netflix, disney+, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (471 Mbps),wi-fi rapido (471 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão por indução Outro,fogao por inducao outro,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina externa compartilhada - disponível o ano todo, disponível em horários específicos, aquecida","piscina externa compartilhada - disponivel o ano todo, disponivel em horarios especificos, aquecida",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (313 Mbps),wi-fi rapido (313 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Atlas,fogao a gas atlas,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Protetores de lareira,protetores de lareira,6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento pago em garagem fora da propriedade,estacionamento pago em garagem fora da propriedade,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (80 Mbps),wi-fi rapido (80 mbps),2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Fisher,fogao a gas fisher,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (309 Mbps),wi-fi rapido (309 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 41 Mbps,wi-fi: 41 mbps,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico Outro,fogao eletrico outro,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 43 polegadas com Chromecast, TV a cabo premium","tv de alta definicao de 43 polegadas com chromecast, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (82 Mbps),wi-fi rapido (82 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Elétrico de aço inoxidável,forno eletrico de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Barra para o corpo,sabonete barra para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 39 polegadas,tv de alta definicao de 39 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cafeteira: cafeteira elétrica, Nespresso","cafeteira: cafeteira eletrica, nespresso",6,0.0013510470614726414,False,fora do intervalo 10-90% ou não top10 por frequência
+Parede de escalada,parede de escalada,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Sabonete Líquido  para o corpo,sabonete sabonete liquido  para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Sansung,geladeira sansung,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Churrasqueira privativa: a carvão, elétrica","churrasqueira privativa: a carvao, eletrica",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 30 polegadas,tv de 30 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira com congelador,geladeira com congelador,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno anexo ao fogao a gas,forno anexo ao fogao a gas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina externa privativa - disponível o ano todo, disponível 24 horas","piscina externa privativa - disponivel o ano todo, disponivel 24 horas",5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão Brastemp  de aço inoxidável,fogao brastemp  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 50 polegadas com Chromecast,tv de alta definicao de 50 polegadas com chromecast,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina externa privativa - disponível o ano todo, disponível 24 horas, terraço","piscina externa privativa - disponivel o ano todo, disponivel 24 horas, terraco",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 32 polegadas com Apple TV, Disney+, HBO Max, Netflix, Fire TV","tv de 32 polegadas com apple tv, disney+, hbo max, netflix, fire tv",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Biplex ,geladeira biplex,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (101 Mbps),wi-fi rapido (101 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina (disponível o ano todo),piscina (disponivel o ano todo),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 40 polegadas com Aparelho de DVD,tv de alta definicao de 40 polegadas com aparelho de dvd,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Mueller de aço inoxidável,fogao a gas mueller de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cafeteira: cafeteira Keurig, cafeteira com coador","cafeteira: cafeteira keurig, cafeteira com coador",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina externa - disponível em horários específicos,piscina externa - disponivel em horarios especificos,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 48 polegadas,tv de alta definicao de 48 polegadas,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão fogão elétrico jung 4 bocas,fogao fogao eletrico jung 4 bocas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com Netflix, Apple TV, HBO Max, TV a cabo premium, Amazon Prime Video","tv de alta definicao de 50 polegadas com netflix, apple tv, hbo max, tv a cabo premium, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento pago na propriedade,estacionamento pago na propriedade,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som LG com Bluetooth,sistema de som lg com bluetooth,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 65 polegadas,tv de alta definicao de 65 polegadas,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão Brastemp,fogao brastemp,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 40 polegadas com Disney+,tv de alta definicao de 40 polegadas com disney+,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Forno normal ELÉTRICO EMBUTIDO, DISPONÍVEL A PARTIR DE 20/12/24 de aço inoxidável","forno normal eletrico embutido, disponivel a partir de 20/12/24 de aco inoxidavel",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (167 Mbps),wi-fi rapido (167 mbps),3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com TV a cabo, Netflix","hdtv com tv a cabo, netflix",3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+TV com Roku,tv com roku,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Secadora (no prédio),secadora (no predio),2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 18 Mbps,wi-fi: 18 mbps,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 5 polegadas com Netflix,tv de alta definicao de 5 polegadas com netflix,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 24 Mbps,wi-fi: 24 mbps,4,0.0009006980409817609,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete luxor para o corpo,sabonete luxor para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Geladeira ""Prosdócimo","geladeira ""prosdocimo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 70 polegadas com Netflix,tv de alta definicao de 70 polegadas com netflix,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico Cooktop Fischer,fogao eletrico cooktop fischer,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Disney+, HBO Max, Netflix, TV a cabo premium","tv de alta definicao de 55 polegadas com disney+, hbo max, netflix, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 60 polegadas com TV a cabo premium,tv de alta definicao de 60 polegadas com tv a cabo premium,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Cadeira alta dobrável ou móvel,cadeira alta dobravel ou movel,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Sabonete em barra para o corpo e sabonete líquido para as mãos. para o corpo,sabonete sabonete em barra para o corpo e sabonete liquido para as maos. para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 75 polegadas com TV a cabo premium,tv de alta definicao de 75 polegadas com tv a cabo premium,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Cercadinho/berço portátil: sempre na acomodação,cercadinho/berco portatil: sempre na acomodacao,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Brastemp 573 Inox Inverse,geladeira brastemp 573 inox inverse,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico Brastemp 5 bocas ,fogao eletrico brastemp 5 bocas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Fisher de aço inoxidável,fogao a gas fisher de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Fisher de aço inoxidável,forno fisher de aco inoxidavel,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cafeteira: cafeteira elétrica, máquina de espresso, cafeteira com coador","cafeteira: cafeteira eletrica, maquina de espresso, cafeteira com coador",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina interna compartilhada - disponível por estação do ano, disponível em horários específicos, aquecida","piscina interna compartilhada - disponivel por estacao do ano, disponivel em horarios especificos, aquecida",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com TV a cabo premium, HBO Max, Netflix","hdtv com tv a cabo premium, hbo max, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 45 polegadas com Netflix, TV a cabo premium, HBO Max","tv de 45 polegadas com netflix, tv a cabo premium, hbo max",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som Caixa com tomada e bateria  com Bluetooth,sistema de som caixa com tomada e bateria  com bluetooth,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Cervejeira e refrigerador VENAX 100 litros ,geladeira cervejeira e refrigerador venax 100 litros,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão por indução Whirlpool de aço inoxidável,fogao por inducao whirlpool de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno duplo Fischer churrasqueira / forno  de aço inoxidável,forno duplo fischer churrasqueira / forno  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete natura  para o corpo,sabonete natura  para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 40 polegadas com Netflix, TV a cabo","tv de alta definicao de 40 polegadas com netflix, tv a cabo",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 65 polegadas,tv de 65 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão Brastemp de aço inoxidável,fogao brastemp de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+HDTV com Roku,hdtv com roku,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com Amazon Prime Video, Apple TV, Chromecast, Disney+, HBO Max, Hulu, Netflix, TV a cabo","tv de alta definicao de 50 polegadas com amazon prime video, apple tv, chromecast, disney+, hbo max, hulu, netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (591 Mbps),wi-fi rapido (591 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 40 polegadas com TV a cabo, Chromecast","tv de alta definicao de 40 polegadas com tv a cabo, chromecast",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 32 polegadas com Netflix,tv de 32 polegadas com netflix,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Duplex frost free,geladeira duplex frost free,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Lux ou similar para o corpo,sabonete lux ou similar para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico eletrolux,fogao eletrico eletrolux,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno continente  de aço inoxidável,forno continente  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 42 Mbps,wi-fi: 42 mbps,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 47 polegadas com Amazon Prime Video, Disney+, Netflix","tv de alta definicao de 47 polegadas com amazon prime video, disney+, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 55 polegadas com Aparelho de DVD,tv de alta definicao de 55 polegadas com aparelho de dvd,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Equipamento para exercícios: elíptico, halteres, bicicleta ergométrica, esteira","equipamento para exercicios: eliptico, halteres, bicicleta ergometrica, esteira",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina externa compartilhada - terraço,piscina externa compartilhada - terraco,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Muller de aço inoxidável,forno normal muller de aco inoxidavel,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som Minisysten,sistema de som minisysten,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno No Fogão  de aço inoxidável,forno no fogao  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás com forno ,fogao a gas com forno,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Cadeira alta independente,cadeira alta independente,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno anexo ao fogao,forno anexo ao fogao,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV com Amazon Prime Video, Disney+, Netflix, Fire TV, HBO Max, Hulu, TV a cabo premium","tv com amazon prime video, disney+, netflix, fire tv, hbo max, hulu, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (100 Mbps),wi-fi rapido (100 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Bosch de aço inoxidável,forno bosch de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Xampu Harus,xampu harus,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Condicionador Harus,condicionador harus,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina interna compartilhada - disponível o ano todo, disponível em horários específicos, terraço","piscina interna compartilhada - disponivel o ano todo, disponivel em horarios especificos, terraco",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Amazon Prime Video, HBO Max, Roku, Chromecast, Netflix, Apple TV","tv de alta definicao de 55 polegadas com amazon prime video, hbo max, roku, chromecast, netflix, apple tv",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Fischer Infinite,forno fischer infinite,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com TV a cabo premium, TV a cabo, Netflix, HBO Max, Amazon Prime Video","hdtv com tv a cabo premium, tv a cabo, netflix, hbo max, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Berço portátil para viagem pago: disponível mediante solicitação,berco portatil para viagem pago: disponivel mediante solicitacao,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina compartilhada - ,piscina compartilhada -,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 42 polegadas com Chromecast, Netflix","tv de 42 polegadas com chromecast, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Netflix, HBO Max, Apple TV, Amazon Prime Video, Disney+","hdtv com netflix, hbo max, apple tv, amazon prime video, disney+",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Livros e brinquedos infantis para crianças de 5 a 10 anos de idade e Mais de 10 anos de idade,livros e brinquedos infantis para criancas de 5 a 10 anos de idade e mais de 10 anos de idade,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (90 Mbps),wi-fi rapido (90 mbps),2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Netflix, HBO Max, Chromecast, Amazon Prime Video","hdtv com netflix, hbo max, chromecast, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 65 polegadas com Amazon Prime Video, Chromecast, HBO Max, Netflix, TV a cabo premium, Aparelho de DVD","tv de alta definicao de 65 polegadas com amazon prime video, chromecast, hbo max, netflix, tv a cabo premium, aparelho de dvd",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som Pioneer com entrada auxiliar,sistema de som pioneer com entrada auxiliar,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Bosch e Brastemp,geladeira bosch e brastemp,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Forno Electrolux (a gás), Brastemp (elétrico) de aço inoxidável","forno electrolux (a gas), brastemp (eletrico) de aco inoxidavel",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Cafeteira: cafeteira francesa,cafeteira: cafeteira francesa,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 70 polegadas com TV a cabo, Netflix","tv de alta definicao de 70 polegadas com tv a cabo, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Chromecast, Netflix, HBO Max, Disney+, TV a cabo premium","hdtv com chromecast, netflix, hbo max, disney+, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 65 polegadas com Amazon Prime Video, Disney+, HBO Max, Netflix","tv de alta definicao de 65 polegadas com amazon prime video, disney+, hbo max, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 37 polegadas,tv de alta definicao de 37 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 65 polegadas com Netflix,tv de 65 polegadas com netflix,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 32 polegadas com Roku,tv de 32 polegadas com roku,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Eletrolux ,forno normal eletrolux,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 53 polegadas com TV a cabo premium,tv de 53 polegadas com tv a cabo premium,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 43 Mbps,wi-fi: 43 mbps,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Xampu Diversos ,xampu diversos,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Diversos  para o corpo,sabonete diversos  para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Electrolux side by side,geladeira electrolux side by side,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Amazon Prime Video, HBO Max, Netflix, TV a cabo premium, Apple TV, Disney+","hdtv com amazon prime video, hbo max, netflix, tv a cabo premium, apple tv, disney+",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cafeteira: máquina de espresso, cafeteira francesa, Nespresso","cafeteira: maquina de espresso, cafeteira francesa, nespresso",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Dove Ou Natura para o corpo,sabonete dove ou natura para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 48 polegadas com TV a cabo premium,tv de alta definicao de 48 polegadas com tv a cabo premium,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal brastemp de aço inoxidável,forno normal brastemp de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 42 polegadas com Amazon Prime Video, Chromecast","tv de alta definicao de 42 polegadas com amazon prime video, chromecast",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Videogame: PS3,videogame: ps3,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (288 Mbps),wi-fi rapido (288 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (69 Mbps),wi-fi rapido (69 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Mônaco Plus de aço inoxidável,fogao a gas monaco plus de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 40 polegadas com Amazon Prime Video, Disney+, Fire TV, HBO Max, Netflix","tv de alta definicao de 40 polegadas com amazon prime video, disney+, fire tv, hbo max, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 43 polegadas com Roku, Amazon Prime Video, TV a cabo premium, Netflix","tv de alta definicao de 43 polegadas com roku, amazon prime video, tv a cabo premium, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Lareira interna: a lenha,lareira interna: a lenha,5,0.001125872551227201,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Amazon Prime Video, Apple TV, Disney+, Fire TV, Hulu, HBO Max, Chromecast, Netflix","hdtv com amazon prime video, apple tv, disney+, fire tv, hulu, hbo max, chromecast, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 48 polegadas com Netflix, Disney+, Amazon Prime Video, HBO Max, TV a cabo premium","tv de alta definicao de 48 polegadas com netflix, disney+, amazon prime video, hbo max, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (241 Mbps),wi-fi rapido (241 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Trocador: sempre na acomodação,trocador: sempre na acomodacao,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 33 Mbps,wi-fi: 33 mbps,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Electrolux  de aço inoxidável,forno electrolux  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Consul para cerveja ,geladeira consul para cerveja,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Academia perto de você,academia perto de voce,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão Fischer de aço inoxidável,fogao fischer de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 16 polegadas,tv de 16 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV com Netflix, TV a cabo premium","tv com netflix, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 42 polegadas com Roku, TV a cabo","tv de alta definicao de 42 polegadas com roku, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som DISPONÍVEL NAS SMART TV´S com Bluetooth,sistema de som disponivel nas smart tv s com bluetooth,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Equipamento para exercícios: halteres, bicicleta ergométrica, esteira","equipamento para exercicios: halteres, bicicleta ergometrica, esteira",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás BOSCH de aço inoxidável,fogao a gas bosch de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno INTEGRADO AO FOGÃO MARCA BOSCH de aço inoxidável,forno integrado ao fogao marca bosch de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina externa compartilhada - disponível por estação do ano, disponível em horários específicos, terraço","piscina externa compartilhada - disponivel por estacao do ano, disponivel em horarios especificos, terraco",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Netflix, Aparelho de DVD","hdtv com netflix, aparelho de dvd",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno decorato  de aço inoxidável,forno decorato  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+HDTV com Fire TV,hdtv com fire tv,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com TV a cabo, TV a cabo premium","hdtv com tv a cabo, tv a cabo premium",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 58 polegadas,tv de 58 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 65 polegadas com Amazon Prime Video, HBO Max, Netflix","tv de alta definicao de 65 polegadas com amazon prime video, hbo max, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira elerolux,geladeira elerolux,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno fisher,forno fisher,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 36 polegadas com Chromecast, Netflix","tv de alta definicao de 36 polegadas com chromecast, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Academia privativa,academia privativa,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (62 Mbps),wi-fi rapido (62 mbps),2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina externa privativa - disponível 24 horas,piscina externa privativa - disponivel 24 horas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira temos mais uma cervejeira,geladeira temos mais uma cervejeira,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Atlas de aço inoxidável,fogao a gas atlas de aco inoxidavel,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Eletrolux de aço inoxidável,fogao a gas eletrolux de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Eletrolux de aço inoxidável,forno eletrolux de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Electrolux,forno electrolux,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com TV a cabo, Netflix, Amazon Prime Video","tv de alta definicao de 50 polegadas com tv a cabo, netflix, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (317 Mbps),wi-fi rapido (317 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento pago em garagem na propriedade,estacionamento pago em garagem na propriedade,7,0.0015762215717180816,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 28 polegadas com Chromecast,tv de 28 polegadas com chromecast,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Marcas varáveis  para o corpo,sabonete marcas varaveis  para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV com Disney+, HBO Max, TV a cabo premium","tv com disney+, hbo max, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 32 polegadas com Netflix, Roku","tv de 32 polegadas com netflix, roku",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Serviços de limpeza disponíveis das 08:00 às 18:00,servicos de limpeza disponiveis das 08:00 as 18:00,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Kitchenette,kitchenette,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Livros e brinquedos infantis para crianças de 0 a 2 anos de idade e 5 a 10 anos de idade,livros e brinquedos infantis para criancas de 0 a 2 anos de idade e 5 a 10 anos de idade,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão dako 4 bocas,fogao dako 4 bocas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira refrigerador duplex,geladeira refrigerador duplex,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Fisher de aço inoxidável,forno normal fisher de aco inoxidavel,3,0.0006755235307363207,False,fora do intervalo 10-90% ou não top10 por frequência
+Máquina de lavar Pago,maquina de lavar pago,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento pago na propriedade: 10 vagas,estacionamento pago na propriedade: 10 vagas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Natura para o corpo,sabonete natura para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Mônaco de aço inoxidável,fogao a gas monaco de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 42 polegadas com Apple TV, Netflix, Amazon Prime Video","tv de alta definicao de 42 polegadas com apple tv, netflix, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Netflix, Apple TV, TV a cabo","hdtv com netflix, apple tv, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Frésha para o corpo,sabonete fresha para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Miller,forno miller,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico consul,fogao eletrico consul,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal consul,forno normal consul,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 29 polegadas,tv de 29 polegadas,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Cadeira alta independente: sempre na acomodação,cadeira alta independente: sempre na acomodacao,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (295 Mbps),wi-fi rapido (295 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 40 polegadas com Amazon Prime Video, Netflix","tv de 40 polegadas com amazon prime video, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Forno elétrico Fischer,forno forno eletrico fischer,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Amazon Prime Video, HBO Max","tv de alta definicao de 55 polegadas com amazon prime video, hbo max",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com TV a cabo premium, HBO Max, Netflix, TV a cabo","tv de alta definicao de 50 polegadas com tv a cabo premium, hbo max, netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som Alexia  com Bluetooth,sistema de som alexia  com bluetooth,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cafeteira: cafeteira elétrica, Nespresso, cafeteira com coador","cafeteira: cafeteira eletrica, nespresso, cafeteira com coador",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Amazon Prime Video, HBO Max, Netflix, TV a cabo premium, Roku","tv de alta definicao de 55 polegadas com amazon prime video, hbo max, netflix, tv a cabo premium, roku",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 32 polegadas com TV a cabo, TV a cabo premium","tv de 32 polegadas com tv a cabo, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (283 Mbps),wi-fi rapido (283 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 32 polegadas com TV a cabo, Chromecast, Netflix","tv de alta definicao de 32 polegadas com tv a cabo, chromecast, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com TV a cabo premium, TV a cabo","tv de alta definicao de 50 polegadas com tv a cabo premium, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno do fogão de aço inoxidável,forno do fogao de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 42 polegadas com TV a cabo, Netflix","tv de alta definicao de 42 polegadas com tv a cabo, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV com Aparelho de DVD, TV a cabo premium","tv com aparelho de dvd, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico Fisher,fogao eletrico fisher,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 40 polegadas com TV a cabo,tv de 40 polegadas com tv a cabo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão Consul,fogao consul,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 40 polegadas com TV a cabo premium, Netflix","tv de alta definicao de 40 polegadas com tv a cabo premium, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Fogão a gás Se enciende con girmatic. Salvo el horno. Hay tambien un horno elétrico, chico. de aço inoxidável","fogao a gas se enciende con girmatic. salvo el horno. hay tambien un horno eletrico, chico. de aco inoxidavel",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Hay el horno convencional de la cocina y más un hornito electrico. Las hornallas son del sistema giromatic (no necesita encededores) de aço inoxidável,forno hay el horno convencional de la cocina y mas un hornito electrico. las hornallas son del sistema giromatic (no necesita encededores) de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Xampu Pantene,xampu pantene,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Condicionador Pantene,condicionador pantene,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Dove  para o corpo,sabonete dove  para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 30 polegadas com Chromecast,tv de alta definicao de 30 polegadas com chromecast,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Estacionamento pago na propriedade: 1 vaga,estacionamento pago na propriedade: 1 vaga,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (84 Mbps),wi-fi rapido (84 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Mueller ,fogao a gas mueller,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (245 Mbps),wi-fi rapido (245 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 60 polegadas com Netflix,tv de alta definicao de 60 polegadas com netflix,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (301 Mbps),wi-fi rapido (301 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno duplo electrolux ,forno duplo electrolux,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 43 polegadas com HBO Max, TV a cabo premium, Fire TV, Netflix, TV a cabo","tv de alta definicao de 43 polegadas com hbo max, tv a cabo premium, fire tv, netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 55 polegadas com HBO Max,tv de alta definicao de 55 polegadas com hbo max,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira boch,geladeira boch,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão boch ,fogao boch,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Lux para o corpo,sabonete lux para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 60 polegadas,tv de alta definicao de 60 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Novo,geladeira novo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Forno,fogao a gas forno,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Fogão Novo,forno normal fogao novo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico Forno,fogao eletrico forno,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 32 polegadas com Fire TV,tv de alta definicao de 32 polegadas com fire tv,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (536 Mbps),wi-fi rapido (536 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno britania de aço inoxidável,forno britania de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Serviços de limpeza disponíveis todos os dias incluso na sua estadia,servicos de limpeza disponiveis todos os dias incluso na sua estadia,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (189 Mbps),wi-fi rapido (189 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Local para guardar as roupas: closet, closet e cômoda","local para guardar as roupas: closet, closet e comoda",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Condicionador Samsung ,condicionador samsung,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 49 polegadas com Amazon Prime Video, Apple TV, Disney+, HBO Max, Netflix, TV a cabo premium, Roku, TV a cabo","tv de alta definicao de 49 polegadas com amazon prime video, apple tv, disney+, hbo max, netflix, tv a cabo premium, roku, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina externa compartilhada - disponível o ano todo, disponível 24 horas","piscina externa compartilhada - disponivel o ano todo, disponivel 24 horas",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 65 polegadas com Chromecast, Netflix, Disney+","tv de alta definicao de 65 polegadas com chromecast, netflix, disney+",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som Jbr com Bluetooth,sistema de som jbr com bluetooth,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Philco  de aço inoxidável,forno normal philco  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Chromecast, Amazon Prime Video, Fire TV, TV a cabo, Netflix","hdtv com chromecast, amazon prime video, fire tv, tv a cabo, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (275 Mbps),wi-fi rapido (275 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 60 polegadas com Netflix, TV a cabo premium, TV a cabo","tv de alta definicao de 60 polegadas com netflix, tv a cabo premium, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (70 Mbps),wi-fi rapido (70 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete pompom para o corpo,sabonete pompom para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (92 Mbps),wi-fi rapido (92 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Xampu Shampoo ,xampu shampoo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina externa privativa - disponível por estação do ano,piscina externa privativa - disponivel por estacao do ano,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som Sony com Bluetooth,sistema de som sony com bluetooth,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Churrasqueira compartilhada: a carvão, elétrica, a gás, a lenha","churrasqueira compartilhada: a carvao, eletrica, a gas, a lenha",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Daco de aço inoxidável,fogao a gas daco de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Equipamento para exercícios: elíptico, halteres, bicicleta ergométrica, esteira, tapete de ioga, banco de exercícios, remo","equipamento para exercicios: eliptico, halteres, bicicleta ergometrica, esteira, tapete de ioga, banco de exercicios, remo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cafeteira: cafeteira elétrica, cafeteira francesa, cafeteira com coador","cafeteira: cafeteira eletrica, cafeteira francesa, cafeteira com coador",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Consul frost free 340lt ,geladeira consul frost free 340lt,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Cooktop fisher 4 bocas,fogao a gas cooktop fisher 4 bocas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Fisher 44lt de aço inoxidável,forno fisher 44lt de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal electrolux,forno normal electrolux,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 55 polegadas com Amazon Prime Video, Chromecast, Netflix","tv de alta definicao de 55 polegadas com amazon prime video, chromecast, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira panasonic duplex,geladeira panasonic duplex,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão mueller de aço inoxidável,fogao mueller de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV com Amazon Prime Video, Disney+","tv com amazon prime video, disney+",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Variado para o corpo,sabonete variado para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Amazon Prime Video, Apple TV, Chromecast, Disney+, Fire TV, HBO Max, Hulu, Netflix, TV a cabo premium, Roku, TV a cabo","hdtv com amazon prime video, apple tv, chromecast, disney+, fire tv, hbo max, hulu, netflix, tv a cabo premium, roku, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (395 Mbps),wi-fi rapido (395 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com TV a cabo, Disney+, Netflix","hdtv com tv a cabo, disney+, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 32 polegadas com TV a cabo, Netflix","tv de 32 polegadas com tv a cabo, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 40 polegadas com Fire TV,tv de 40 polegadas com fire tv,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Equipamento para exercícios: esteira,equipamento para exercicios: esteira,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (95 Mbps),wi-fi rapido (95 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 33 polegadas com Netflix,tv de alta definicao de 33 polegadas com netflix,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 49 polegadas com TV a cabo premium,tv de alta definicao de 49 polegadas com tv a cabo premium,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete nivea para o corpo,sabonete nivea para o corpo,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 42 polegadas com Amazon Prime Video, Chromecast, Netflix","tv de alta definicao de 42 polegadas com amazon prime video, chromecast, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Dacor,fogao a gas dacor,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal philco Elétrico,forno normal philco eletrico,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Serviços de limpeza disponíveis todos os dias disponível a um custo extra,servicos de limpeza disponiveis todos os dias disponivel a um custo extra,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (121 Mbps),wi-fi rapido (121 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Consul frost-free ,geladeira consul frost-free,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Mueller  de aço inoxidável,forno normal mueller  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de 55 polegadas com TV a cabo premium,tv de 55 polegadas com tv a cabo premium,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com HBO Max, Netflix, Disney+, Chromecast","tv de alta definicao de 50 polegadas com hbo max, netflix, disney+, chromecast",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Continental biplex,geladeira continental biplex,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Atlas Atenas ,fogao a gas atlas atenas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com Amazon Prime Video, Fire TV","tv de alta definicao de 50 polegadas com amazon prime video, fire tv",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Electrolux Frost Free Duplex,geladeira electrolux frost free duplex,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Equipamento para exercícios: halteres, bicicleta ergométrica, esteira, banco de exercícios","equipamento para exercicios: halteres, bicicleta ergometrica, esteira, banco de exercicios",2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+"Jacuzzi compartilhada: disponível o ano todo, disponível 24 horas","jacuzzi compartilhada: disponivel o ano todo, disponivel 24 horas",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 49 polegadas,tv de alta definicao de 49 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som com Bluetooth e entrada auxiliar,sistema de som com bluetooth e entrada auxiliar,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Banheira de hidromassagem,banheira de hidromassagem,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 26 polegadas,tv de alta definicao de 26 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina compartilhada - disponível 24 horas, aquecida","piscina compartilhada - disponivel 24 horas, aquecida",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Banheira de hidromassagem (disponível o ano todo, disponível 24 horas)","banheira de hidromassagem (disponivel o ano todo, disponivel 24 horas)",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Máquina de lavar (no prédio),maquina de lavar (no predio),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina externa compartilhada - disponível o ano todo,piscina externa compartilhada - disponivel o ano todo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 65 polegadas com Aparelho de DVD, Netflix, Disney+","tv de 65 polegadas com aparelho de dvd, netflix, disney+",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Xampu Blue Sea Hotel,xampu blue sea hotel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Condicionador Blue Sea Hotel,condicionador blue sea hotel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Cafeteira: cafeteira francesa, cafeteira com coador","cafeteira: cafeteira francesa, cafeteira com coador",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina externa privativa - disponível em horários específicos, aquecida","piscina externa privativa - disponivel em horarios especificos, aquecida",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 50 polegadas com Netflix, Amazon Prime Video, Apple TV, Disney+","tv de 50 polegadas com netflix, amazon prime video, apple tv, disney+",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Livros e brinquedos infantis para crianças de Mais de 10 anos de idade,livros e brinquedos infantis para criancas de mais de 10 anos de idade,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 58 polegadas,tv de alta definicao de 58 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (108 Mbps),wi-fi rapido (108 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno duplo Brastemp  de aço inoxidável,forno duplo brastemp  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Amazon Prime Video, Chromecast, TV a cabo","hdtv com amazon prime video, chromecast, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Brastemp  de aço inoxidável,fogao a gas brastemp  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (134 Mbps),wi-fi rapido (134 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira duplex Eletrolux,geladeira duplex eletrolux,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Roku, HBO Max, Fire TV, Chromecast, Amazon Prime Video, Disney+, Hulu, TV a cabo premium, Apple TV, Netflix","hdtv com roku, hbo max, fire tv, chromecast, amazon prime video, disney+, hulu, tv a cabo premium, apple tv, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV com Chromecast, TV a cabo, Aparelho de DVD","tv com chromecast, tv a cabo, aparelho de dvd",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som Samsung com Bluetooth e entrada auxiliar,sistema de som samsung com bluetooth e entrada auxiliar,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 48 polegadas com Netflix, TV a cabo","tv de alta definicao de 48 polegadas com netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (78 Mbps),wi-fi rapido (78 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 6 polegadas com Netflix,tv de alta definicao de 6 polegadas com netflix,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Consul,fogao a gas consul,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão elétrico Mueller ,fogao eletrico mueller,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Mueller,forno normal mueller,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 59 polegadas,tv de alta definicao de 59 polegadas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (377 Mbps),wi-fi rapido (377 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Brastemp de embutir de aço inoxidável,forno brastemp de embutir de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com TV a cabo, Netflix","tv de alta definicao de 50 polegadas com tv a cabo, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (111 Mbps),wi-fi rapido (111 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Eletrolux 120l,geladeira eletrolux 120l,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Venax ,fogao a gas venax,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 40 polegadas com Apple TV, Netflix","tv de alta definicao de 40 polegadas com apple tv, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Venax,geladeira venax,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Netflix, Disney+","hdtv com netflix, disney+",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 46 polegadas com Netflix,tv de alta definicao de 46 polegadas com netflix,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Amazon Prime Video, Netflix, TV a cabo premium, TV a cabo","hdtv com amazon prime video, netflix, tv a cabo premium, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 6 polegadas com Netflix, TV a cabo","tv de alta definicao de 6 polegadas com netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Amazon Prime Video, TV a cabo, Netflix","hdtv com amazon prime video, tv a cabo, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina interna compartilhada - disponível o ano todo, disponível em horários específicos, aquecida, piscina de natação, tamanho olímpico","piscina interna compartilhada - disponivel o ano todo, disponivel em horarios especificos, aquecida, piscina de natacao, tamanho olimpico",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 2 polegadas com TV a cabo premium, TV a cabo","tv de alta definicao de 2 polegadas com tv a cabo premium, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 46 polegadas com TV a cabo premium, TV a cabo","tv de 46 polegadas com tv a cabo premium, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Forno Conjugado com o fogão, à gás","forno conjugado com o fogao, a gas",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 40 polegadas com Netflix, TV a cabo premium, TV a cabo, Amazon Prime Video, Disney+, HBO Max","tv de 40 polegadas com netflix, tv a cabo premium, tv a cabo, amazon prime video, disney+, hbo max",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Serviços de limpeza disponíveis das 08:00 às 14:00, todos os dias disponível a um custo extra","servicos de limpeza disponiveis das 08:00 as 14:00, todos os dias disponivel a um custo extra",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 43 polegadas com Chromecast,tv de alta definicao de 43 polegadas com chromecast,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a lenha Other de aço inoxidável,fogao a lenha other de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão Fischer sobre por de vidro,fogao fischer sobre por de vidro,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com Amazon Prime Video, Netflix, Chromecast","tv de alta definicao de 50 polegadas com amazon prime video, netflix, chromecast",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Variada para o corpo,sabonete variada para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com HBO Max, TV a cabo premium, TV a cabo","tv de alta definicao de 50 polegadas com hbo max, tv a cabo premium, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão COOTOOP FISCHER de aço inoxidável,fogao cootoop fischer de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Cônsul com freezer parte de baixo ,geladeira consul com freezer parte de baixo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Condicionador Própria,condicionador propria,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Própria para o corpo,sabonete propria para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 47 polegadas com HBO Max, TV a cabo premium, TV a cabo","tv de alta definicao de 47 polegadas com hbo max, tv a cabo premium, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Xampu natura,xampu natura,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Condicionador natura,condicionador natura,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete líquido  vitoria secrets para o corpo,sabonete liquido  vitoria secrets para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 63 polegadas com Amazon Prime Video, Apple TV","tv de alta definicao de 63 polegadas com amazon prime video, apple tv",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão ATLAS,fogao atlas,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno ATLAS,forno atlas,2,0.00045034902049088043,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Consul bem star,geladeira consul bem star,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno fiche,forno fiche,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Berço pago: sempre na acomodação,berco pago: sempre na acomodacao,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 32 polegadas com Chromecast, Netflix, TV a cabo premium","tv de alta definicao de 32 polegadas com chromecast, netflix, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (89 Mbps),wi-fi rapido (89 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno elétrico ,forno eletrico,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 42 polegadas com Netflix, Amazon Prime Video","tv de 42 polegadas com netflix, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de 65 polegadas com HBO Max, Disney+, Netflix, Amazon Prime Video, Apple TV","tv de 65 polegadas com hbo max, disney+, netflix, amazon prime video, apple tv",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Serviços de limpeza disponíveis 24 horas disponível a um custo extra,servicos de limpeza disponiveis 24 horas disponivel a um custo extra,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Sabonete para o corpo,sabonete sabonete para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com Amazon Prime Video, Disney+, HBO Max, Netflix, TV a cabo","hdtv com amazon prime video, disney+, hbo max, netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina interna compartilhada - disponível o ano todo, borda infinita, cobertura da piscina, terraço","piscina interna compartilhada - disponivel o ano todo, borda infinita, cobertura da piscina, terraco",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Piscina privativa ao ar livre,piscina privativa ao ar livre,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Electrolux 122l,geladeira electrolux 122l,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Venax de aço inoxidável,fogao a gas venax de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 65 polegadas com TV a cabo premium,tv de alta definicao de 65 polegadas com tv a cabo premium,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Piscina externa privativa - aquecida, borda infinita","piscina externa privativa - aquecida, borda infinita",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Brastemp  Novo aço inoxidável ,geladeira brastemp  novo aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Fogão a gás Novo,fogao a gas novo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal Fogão  de aço inoxidável,forno normal fogao  de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Philco de aço inoxidável,forno philco de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 50 polegadas com Disney+, Netflix, TV a cabo","tv de alta definicao de 50 polegadas com disney+, netflix, tv a cabo",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno normal EOS de aço inoxidável,forno normal eos de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 60 polegadas com Amazon Prime Video, Disney+, Netflix, TV a cabo premium","tv de alta definicao de 60 polegadas com amazon prime video, disney+, netflix, tv a cabo premium",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (263 Mbps),wi-fi rapido (263 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno Dako de aço inoxidável,forno dako de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Equipamento para exercícios: halteres, esteira","equipamento para exercicios: halteres, esteira",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"HDTV com TV a cabo, Netflix, Disney+, Amazon Prime Video","hdtv com tv a cabo, netflix, disney+, amazon prime video",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi rápido (439 Mbps),wi-fi rapido (439 mbps),1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Wi-Fi: 10 Mbps,wi-fi: 10 mbps,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Geladeira Panasonic Frost Free com Freezer,geladeira panasonic frost free com freezer,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sabonete Protex  para o corpo,sabonete protex  para o corpo,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Serviços de limpeza disponíveis 6 horas por dia, Terça-feira, Sexta-feira disponível a um custo extra","servicos de limpeza disponiveis 6 horas por dia, terca-feira, sexta-feira disponivel a um custo extra",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Sistema de som ALEXA,sistema de som alexa,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"Equipamento para exercícios: elíptico, halteres, esteira, tapete de ioga, banco de exercícios","equipamento para exercicios: eliptico, halteres, esteira, tapete de ioga, banco de exercicios",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+TV de alta definição de 39 polegadas com HBO Max,tv de alta definicao de 39 polegadas com hbo max,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+Forno arno de aço inoxidável,forno arno de aco inoxidavel,1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
+"TV de alta definição de 43 polegadas com Amazon Prime Video, Netflix","tv de alta definicao de 43 polegadas com amazon prime video, netflix",1,0.00022517451024544022,False,fora do intervalo 10-90% ou não top10 por frequência
