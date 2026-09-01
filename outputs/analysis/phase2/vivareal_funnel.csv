@@ -1,0 +1,9 @@
+fluxo,etapa,etapa_base,n_mantidos,n_excluidos_na_etapa
+principal,bruto_dedup,,8293,0
+principal,apt_ou_casa,bruto_dedup,8044,249
+principal,bairro_conhecido,apt_ou_casa,7949,95
+principal,sale_price_positivo,bairro_conhecido,7949,0
+principal,area_positiva,sale_price_positivo,7949,0
+principal,pm2_valido,area_positiva,7949,0
+principal,elegiveis_principal_is_outlier_false,pm2_valido,7307,642
+sensibilidade,todos_validos_incluindo_outlier_e_flag_na,pm2_valido,7949,0

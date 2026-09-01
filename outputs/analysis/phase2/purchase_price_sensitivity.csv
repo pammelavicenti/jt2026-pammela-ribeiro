@@ -1,0 +1,55 @@
+segmento,bairro,perfil,quantil_preco,preco,ocupacao,rendimento_bruto,payback_bruto
+centro | 2. apartamento (2q),centro,2. apartamento (2q),P25,873500.0,50%,0.14859611564398428,6.729651011846512
+centro | 2. apartamento (2q),centro,2. apartamento (2q),P25,873500.0,60%,0.17831533877278113,5.608042509872093
+centro | 2. apartamento (2q),centro,2. apartamento (2q),P25,873500.0,75%,0.22289417346597643,4.4864340078976745
+centro | 2. apartamento (2q),centro,2. apartamento (2q),mediana,1150000.0,50%,0.11286844088262632,8.859872539923856
+centro | 2. apartamento (2q),centro,2. apartamento (2q),mediana,1150000.0,60%,0.13544212905915157,7.383227116603213
+centro | 2. apartamento (2q),centro,2. apartamento (2q),mediana,1150000.0,75%,0.16930266132393948,5.90658169328257
+centro | 2. apartamento (2q),centro,2. apartamento (2q),P75,1533030.0,50%,0.08466808021696919,11.810826434677798
+centro | 2. apartamento (2q),centro,2. apartamento (2q),P75,1533030.0,60%,0.10160169626036301,9.8423553622315
+centro | 2. apartamento (2q),centro,2. apartamento (2q),P75,1533030.0,75%,0.12700212032545377,7.873884289785199
+centro | 3. apartamento (3q+),centro,3. apartamento (3q+),P25,1958750.0,50%,0.07663207667286571,13.049365793242105
+centro | 3. apartamento (3q+),centro,3. apartamento (3q+),P25,1958750.0,60%,0.09195849200743884,10.87447149436842
+centro | 3. apartamento (3q+),centro,3. apartamento (3q+),P25,1958750.0,75%,0.11494811500929857,8.699577195494737
+centro | 3. apartamento (3q+),centro,3. apartamento (3q+),mediana,2696500.0,50%,0.0556658928918879,17.964321562975027
+centro | 3. apartamento (3q+),centro,3. apartamento (3q+),mediana,2696500.0,60%,0.06679907147026547,14.970267969145857
+centro | 3. apartamento (3q+),centro,3. apartamento (3q+),mediana,2696500.0,75%,0.08349883933783184,11.976214375316685
+centro | 3. apartamento (3q+),centro,3. apartamento (3q+),P75,3796200.0,50%,0.03954035092539269,25.290620254910365
+centro | 3. apartamento (3q+),centro,3. apartamento (3q+),P75,3796200.0,60%,0.04744842111047122,21.07551687909197
+centro | 3. apartamento (3q+),centro,3. apartamento (3q+),P75,3796200.0,75%,0.05931052638808902,16.860413503273577
+meia praia | 1. apartamento compacto (0-1q),meia praia,1. apartamento compacto (0-1q),P25,753000.0,50%,0.12960230245464635,7.715912302946507
+meia praia | 1. apartamento compacto (0-1q),meia praia,1. apartamento compacto (0-1q),P25,753000.0,60%,0.1555227629455756,6.42992691912209
+meia praia | 1. apartamento compacto (0-1q),meia praia,1. apartamento compacto (0-1q),P25,753000.0,75%,0.1944034536819695,5.143941535297672
+meia praia | 1. apartamento compacto (0-1q),meia praia,1. apartamento compacto (0-1q),mediana,875000.0,50%,0.11153203856954136,8.966033552560683
+meia praia | 1. apartamento compacto (0-1q),meia praia,1. apartamento compacto (0-1q),mediana,875000.0,60%,0.13383844628344962,7.471694627133902
+meia praia | 1. apartamento compacto (0-1q),meia praia,1. apartamento compacto (0-1q),mediana,875000.0,75%,0.16729805785431204,5.977355701707122
+meia praia | 1. apartamento compacto (0-1q),meia praia,1. apartamento compacto (0-1q),P75,1002503.5,50%,0.09734682596953396,10.272548591496593
+meia praia | 1. apartamento compacto (0-1q),meia praia,1. apartamento compacto (0-1q),P75,1002503.5,60%,0.11681619116344076,8.560457159580494
+meia praia | 1. apartamento compacto (0-1q),meia praia,1. apartamento compacto (0-1q),P75,1002503.5,75%,0.14602023895430094,6.848365727664395
+meia praia | 2. apartamento (2q),meia praia,2. apartamento (2q),P25,906700.0,50%,0.10728363134500546,9.321086427287069
+meia praia | 2. apartamento (2q),meia praia,2. apartamento (2q),P25,906700.0,60%,0.12874035761400657,7.767572022739224
+meia praia | 2. apartamento (2q),meia praia,2. apartamento (2q),P25,906700.0,75%,0.16092544701750822,6.2140576181913785
+meia praia | 2. apartamento (2q),meia praia,2. apartamento (2q),mediana,1070000.0,50%,0.09091034443038921,10.999848326014298
+meia praia | 2. apartamento (2q),meia praia,2. apartamento (2q),mediana,1070000.0,60%,0.10909241331646705,9.166540271678581
+meia praia | 2. apartamento (2q),meia praia,2. apartamento (2q),mediana,1070000.0,75%,0.13636551664558383,7.333232217342864
+meia praia | 2. apartamento (2q),meia praia,2. apartamento (2q),P75,1290000.0,50%,0.0754062546825709,13.26149938369948
+meia praia | 2. apartamento (2q),meia praia,2. apartamento (2q),P75,1290000.0,60%,0.09048750561908507,11.051249486416234
+meia praia | 2. apartamento (2q),meia praia,2. apartamento (2q),P75,1290000.0,75%,0.11310938202385636,8.840999589132986
+meia praia | 3. apartamento (3q+),meia praia,3. apartamento (3q+),P25,1744595.0,50%,0.08263911198973413,12.100807667490733
+meia praia | 3. apartamento (3q+),meia praia,3. apartamento (3q+),P25,1744595.0,60%,0.09916693438768094,10.084006389575611
+meia praia | 3. apartamento (3q+),meia praia,3. apartamento (3q+),P25,1744595.0,75%,0.12395866798460117,8.067205111660488
+meia praia | 3. apartamento (3q+),meia praia,3. apartamento (3q+),mediana,2380000.0,50%,0.060576378815853024,16.508084826924268
+meia praia | 3. apartamento (3q+),meia praia,3. apartamento (3q+),mediana,2380000.0,60%,0.07269165457902363,13.756737355770223
+meia praia | 3. apartamento (3q+),meia praia,3. apartamento (3q+),mediana,2380000.0,75%,0.09086456822377953,11.005389884616179
+meia praia | 3. apartamento (3q+),meia praia,3. apartamento (3q+),P75,3484000.0,50%,0.04138110837592715,24.165616612186618
+meia praia | 3. apartamento (3q+),meia praia,3. apartamento (3q+),P75,3484000.0,60%,0.049657330051112586,20.13801384348885
+meia praia | 3. apartamento (3q+),meia praia,3. apartamento (3q+),P75,3484000.0,75%,0.062071662563890725,16.11041107479108
+morretes | 2. apartamento (2q),morretes,2. apartamento (2q),P25,680000.0,50%,0.1347195731697797,7.422826367923202
+morretes | 2. apartamento (2q),morretes,2. apartamento (2q),P25,680000.0,60%,0.16166348780373563,6.185688639936003
+morretes | 2. apartamento (2q),morretes,2. apartamento (2q),P25,680000.0,75%,0.20207935975466954,4.948550911948802
+morretes | 2. apartamento (2q),morretes,2. apartamento (2q),mediana,789550.0,50%,0.11602724305674143,8.618665527637889
+morretes | 2. apartamento (2q),morretes,2. apartamento (2q),mediana,789550.0,60%,0.13923269166808971,7.182221273031574
+morretes | 2. apartamento (2q),morretes,2. apartamento (2q),mediana,789550.0,75%,0.17404086458511214,5.74577701842526
+morretes | 2. apartamento (2q),morretes,2. apartamento (2q),P75,874647.5,50%,0.1047385486786965,9.547583125938395
+morretes | 2. apartamento (2q),morretes,2. apartamento (2q),P75,874647.5,60%,0.1256862584144358,7.95631927161533
+morretes | 2. apartamento (2q),morretes,2. apartamento (2q),P75,874647.5,75%,0.15710782301804474,6.365055417292265

@@ -1,0 +1,19 @@
+segmento,bairro,perfil,ocupacao,receita_bruta_anualizada,rendimento_bruto,payback_bruto
+centro | 2. apartamento (2q),centro,2. apartamento (2q),50%,129798.70701502026,0.11286844088262632,8.859872539923856
+centro | 2. apartamento (2q),centro,2. apartamento (2q),60%,155758.44841802432,0.13544212905915157,7.383227116603213
+centro | 2. apartamento (2q),centro,2. apartamento (2q),75%,194698.0605225304,0.16930266132393948,5.90658169328257
+centro | 3. apartamento (3q+),centro,3. apartamento (3q+),50%,150103.0801829757,0.0556658928918879,17.964321562975027
+centro | 3. apartamento (3q+),centro,3. apartamento (3q+),60%,180123.69621957085,0.06679907147026547,14.970267969145857
+centro | 3. apartamento (3q+),centro,3. apartamento (3q+),75%,225154.62027446355,0.08349883933783184,11.976214375316685
+meia praia | 1. apartamento compacto (0-1q),meia praia,1. apartamento compacto (0-1q),50%,97590.5337483487,0.11153203856954136,8.966033552560683
+meia praia | 1. apartamento compacto (0-1q),meia praia,1. apartamento compacto (0-1q),60%,117108.64049801843,0.13383844628344962,7.471694627133902
+meia praia | 1. apartamento compacto (0-1q),meia praia,1. apartamento compacto (0-1q),75%,146385.80062252303,0.16729805785431204,5.977355701707122
+meia praia | 2. apartamento (2q),meia praia,2. apartamento (2q),50%,97274.06854051645,0.09091034443038921,10.999848326014298
+meia praia | 2. apartamento (2q),meia praia,2. apartamento (2q),60%,116728.88224861975,0.10909241331646705,9.166540271678581
+meia praia | 2. apartamento (2q),meia praia,2. apartamento (2q),75%,145911.1028107747,0.13636551664558383,7.333232217342864
+meia praia | 3. apartamento (3q+),meia praia,3. apartamento (3q+),50%,144171.7815817302,0.060576378815853024,16.508084826924268
+meia praia | 3. apartamento (3q+),meia praia,3. apartamento (3q+),60%,173006.13789807624,0.07269165457902363,13.756737355770223
+meia praia | 3. apartamento (3q+),meia praia,3. apartamento (3q+),75%,216257.6723725953,0.09086456822377953,11.005389884616179
+morretes | 2. apartamento (2q),morretes,2. apartamento (2q),50%,91609.3097554502,0.11602724305674143,8.618665527637889
+morretes | 2. apartamento (2q),morretes,2. apartamento (2q),60%,109931.17170654023,0.13923269166808971,7.182221273031574
+morretes | 2. apartamento (2q),morretes,2. apartamento (2q),75%,137413.9646331753,0.17404086458511214,5.74577701842526
