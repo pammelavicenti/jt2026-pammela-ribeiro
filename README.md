@@ -133,8 +133,4 @@ Todo o pipeline (preparação, análises 1–4 e esta documentação) foi constr
 ![Payback por preço de aquisição](outputs/analysis/final/figures/03_payback_sensitivity.png)
 ![Quadro-resumo da decisão](outputs/analysis/final/figures/04_decision_summary.png)
 
-## 15. Pendências para a entrega
 
-- [ ] Inserir o **link do vídeo** (seção 1), compartilhado com 'qualquer pessoa com o link'.
-- [ ] Revisão final em aba anônima do repositório público.
-- [ ] Enviar o formulário de entrega com os links do repositório e do vídeo.
