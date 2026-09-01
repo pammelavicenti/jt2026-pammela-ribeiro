@@ -1,4 +1,4 @@
-[LINK PENDENTE — será inserido separadamente antes da entrega]
+https://drive.google.com/drive/folders/1wC5LvF52fU1APDMKvvMlpwjlyjm2NVEl?usp=sharing
 
 # Jovens Talentos 2026 — Recomendação de investimento imobiliário em Itapema
 
